@@ -34,7 +34,7 @@ Green Countries with moderate to low Debt to GDP ratios
 
 # 1. Government Debt Bar Chart
 
-The barchart represents the Debt to GDP ratios of countries in any given year well but it is not suitable to show the variantion year on year. It is also not suitable to visualize multiple values corresponding to the same entity (multiple values corresponding to the same country, here). The colors can be used more prudently to tell a pressing story i.e how some countries are borrowing more than they should be. What I really like about this is how it limits eye travel since the values are written above each bar. However, the title could have been more clear and descriptive.
+The barchart represents the Debt to GDP ratios of countries in any given year well but it is not suitable to show the variantion year on year. It is also not suitable to visualize multiple values corresponding to the same entity (multiple values corresponding to the same country, here). The colors can be used more prudently to tell a pressing story i.e how some countries are borrowing more than they should be. What I really like about this chart is how it limits eye travel since the values are written above each bar. However, the title could have been more clear and descriptive.
 
 # 2. Beeswarm Chart
 
@@ -45,7 +45,7 @@ In my opinion, what lacks in this chart is that it only depicts the value of a v
 # 3. Boxplot
 
 
-I chose to represent that data using a boxplot in order to visualise a general trend in the Debt to GDP ratios of all the countries. The boxplot depicts the general trend i.e the average Debt to GDP ratio and also the spread of datapoints over all the years leading from 1995 until 2018. It shows us how some countries have consistently had high Debt to GDP ratios while others have limited their borrowings. Countries with high Debt to GDP ratios are at a higher risk of defaulting and have been marked in red. 
+I chose to represent that data using a boxplot in order to visualise a general trend in the Debt to GDP ratios of all the countries over the past few years. The boxplot depicts the general trend i.e the average Debt to GDP ratio and also the spread of datapoints over all the years leading from 1995 until 2018. It shows us how some countries have consistently had high Debt to GDP ratios while others have limited their borrowings. Countries with high Debt to GDP ratios are at a higher risk of defaulting and have been marked in red. 
 
 Governments generally strive to lower their Debt to GDP ratios, this can be difficult to achieve during periods of unrest, such as wartime, or economic recession. In such challenging climates, governments tend to increase borrowing in an effort to stimulate growth and boost aggregate demand, thus explaining high Debt to GDP ratios of some countries.
 
@@ -64,9 +64,9 @@ I also feel like using RAWGraphs simplies our work a great deal but limits the a
 
                   x---------------------x---------------------x---------------------x---------------------x
 @Source:                  
-The data for all these visualizations was sourced from the OECD Database, more specifically from OECD National Accounts Statistics: National Accounts at a Glance
+The data for all these visualizations was sourced from the OECD Database, more specifically from OECD National Accounts Statistics: National Accounts at a Glance (https://data.oecd.org/gga/general-government-debt.htm)
 
->> Graveyard for visualizations that did not make the cut [Click to see trial visualizations->](/dataviz2.md)
+>> Graveyard for visualizations that did not make the cut, these are just trial plots and may be ignored [Click to see trial visualizations->](/dataviz2.md)
 
 >> Return [<- Click to return to my portfolio](/README.md)
 
