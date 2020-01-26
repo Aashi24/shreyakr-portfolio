@@ -18,7 +18,7 @@ I am grauduate student at Carnegie Mellon University, pursing a Masters in Infor
                                                                                   
 I truly believe that the best way to learn something is to do it! As I build my portfolio peice by peice, I hope to learn the intricasies of Data-Viz which will make me a much better visual communicator. Sometimes the smallest details make a huge difference and I want to learn to focus on some of these in order to make more meaningful and impactful visualisations.
 
-I am particularly interested in color theory and I seek to learn how to use color to our advantage while persuading the audience. Further, I wish to learn how to keep my visualisations simple while being able to convey the whole and true story that the data reflects. I times where data is being called the new oil, this is an important skill to have.
+I am particularly interested in color theory and I seek to learn how to use color to our advantage while persuading the audience. Further, I wish to learn how to keep my visualisations simple while being able to convey the whole and true story that the data reflects. In times when data is being called the new oil, this is an important skill to have.
 
 # Portfolio
 
