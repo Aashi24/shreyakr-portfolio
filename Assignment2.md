@@ -63,10 +63,13 @@ I also feel like using RAWGraphs simplies our work a great deal but limits the a
 
 
                   x---------------------x---------------------x---------------------x---------------------x
-@Source:                  
-The data for all these visualizations was sourced from the OECD Database, more specifically from OECD National Accounts Statistics: National Accounts at a Glance (https://data.oecd.org/gga/general-government-debt.htm)
+                  
 
->> Graveyard for visualizations that did not make the cut, these are just trial plots and may be ignored [Click to see trial visualizations->](/dataviz2.md)
+@Source: The data for all these visualizations was sourced from the OECD Database, more specifically from OECD National Accounts Statistics: National Accounts at a Glance (https://data.oecd.org/gga/general-government-debt.htm)
 
->> Return [<- Click to return to my portfolio](/README.md)
+>> Graveyard for visualizations that did not make the cut, these are just trial plots and may be ignored 
+[Click to see trial visualizations->](/dataviz2.md)
+
+>> Return 
+[<- Click to return to my portfolio](/README.md)
 
