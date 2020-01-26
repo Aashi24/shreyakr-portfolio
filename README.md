@@ -22,4 +22,6 @@ I am particularly interested in color theory and I seek to learn how to use colo
 
 # Portfolio
 
-Here goes...this is where you can view all of my cool visualizations! Stay tuned...
+Here goes...this is where you can view all of my cool visualizations! Stay tuned for more...
+
+[Assignment 2 - OECD data visualization](/dataviz2.md)
