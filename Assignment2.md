@@ -18,7 +18,7 @@
 
 # 2.2 - My version using Boxplots with whiskers
 
-The previous beeswarm chart shows how the Debt to GDP ratio has varied for each country from 1995 to 2018. However it does not show the actual values and it is hard to infer a general trend or avergae value for each country. In order to deal with the shortfalls of the beeswarm plot and to get a more holistic picture, I decided to uses box plots. 
+The previous beeswarm chart shows how the Debt to GDP ratio has varied for each country from 1995 to 2018. However, it does not show the actual values and it is hard to infer a general trend or averge value for each country. In order to deal with the shortfalls of the beeswarm plot and to get a more holistic picture, I decided to uses box plots. 
 
 The boxplot with whiskers shown below, gives us the mean Debt to GDP ratio over the last 20 odd years. It is easy to infer the countries that have been borrowing too much as compared to their overall GDP. This chart makes it  easier to quantitatively assess the borrowing behaviour of these countries. The ones showing positive borrowing patterns are shown in green while the others that show negative trends are shown in red.
 
@@ -38,7 +38,7 @@ Green Countries with moderate to low Debt to GDP ratios
 
 # 1. Government Debt Bar Chart
 
-The barchart represents the Debt to GDP ratios of countries in any given year well but it is not suitable to show the variantion year on year. It is also not suitable to visualize multiple values corresponding to the same entity (multiple values corresponding to the same country, here). The colors can be used more prudently to tell a pressing story i.e how some countries are borrowing more than they should be. What I really like about this chart is how it limits eye travel since the values are written above each bar. However, the title could have been more clear and descriptive.
+The barchart represents the Debt to GDP ratios of countries in any given year well but it is not suitable to show the variation year on year. It is also not suitable to visualize multiple values corresponding to the same entity (multiple values corresponding to the same country, here). The colors can be used more prudently to tell a pressing story i.e how some countries are borrowing more than they should be. What I really like about this chart is how it limits eye travel since the values are written above each bar. However, the title could have been more clear and descriptive.
 
 # 2. Beeswarm Chart
 
@@ -63,7 +63,7 @@ Changes that will improve clarity of the visualization:
 
 4. Missing Chart Title which I had to explicitly add on the portfolio page
 
-I also feel like using RAWGraphs simplies our work a great deal but limits the amount of customizations that we can add to the charts. This limits the extent to which we can enhance the clarity of the visualizations.
+I also feel like using RAWGraphs simplifies our work a great deal but limits the amount of customizations that we can add to the charts. This limits the extent to which we can enhance the clarity of the visualizations.
 
 
                   x---------------------x---------------------x---------------------x---------------------x
