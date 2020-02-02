@@ -9,7 +9,8 @@ visualization and an explanation of the data are included.
 
 # 1 - Data Vizualization chosen from an Article in The Economist
 
-[Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
+Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
+
 ![Economist-Viz](SubSaharanAfricaEconomist.png)
 
 # Feedback on wireframes
