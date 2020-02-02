@@ -44,6 +44,7 @@ I think
 # First try
 
 ![wireframe-1](w1.jpg)
+@Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
 ## Feedback on first iteration:
 
@@ -70,6 +71,7 @@ I think
 # Second try, after incorporating the feedback received
 
 ![wireframe-2](w2.jpg)
+@Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
 ## Feedback on second iteration:
 
