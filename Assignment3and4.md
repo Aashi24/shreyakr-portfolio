@@ -13,7 +13,7 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 # First try
 
-![wireframe-1](w1.jpeg)
+![wireframe-1](w1.jpg)
 
 ## Feedback on first iteration:
 
