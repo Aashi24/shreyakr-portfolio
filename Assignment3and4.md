@@ -6,10 +6,10 @@ Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle
 
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
-**Background:\n**
+**Background:**
 I chose this data visualization from The Economist because of its simplicity. The article talks about how the locus of Christianity is moving downward in many parts of the world while Sub-Saharan Africa represents the faith's greatest hope. The focus of the article, however, is how the Christian-Muslim conflict sputtering across west Africa is hindering with the Pope's plans to visit the continent. The article cites findings of Pew, an American research institute, which indicate that the share of the world’s Christians who live in sub-Saharan Africa will surge to 42% by 2060, up from 26% in 2015. This is precisely what the visualization I have chosen for this exercise represents. It highlights how hristianity would be destined to fall rather swiftly behind Islam as the world’s most popular faith if not for it's adoption in Sub-Saharan Africa.
 
-# Critique
+# CRITIQUE
 ## 1. Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
 
 **Things that stood out:** <br />
@@ -33,7 +33,7 @@ I chose this data visualization from The Economist because of its simplicity. Th
 - Maybe change the **chart type** and use a bar chart to represent the same information
 - I would certainly change the **chart title** to make it more informative and less abstract
 
-# Wireframe iterations
+# WIREFRAMES
 
 # First try
 
