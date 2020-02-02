@@ -6,8 +6,32 @@ Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle
 
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
-**Background:**
+**Background:\n**
 I chose this data visualization from The Economist because of its simplicity. The article talks about how the locus of Christianity is moving downward in many parts of the world while Sub-Saharan Africa represents the faith's greatest hope. The focus of the article, however, is how the Christian-Muslim conflict sputtering across west Africa is hindering with the Pope's plans to visit the continent. The article cites findings of Pew, an American research institute, which indicate that the share of the world’s Christians who live in sub-Saharan Africa will surge to 42% by 2060, up from 26% in 2015. This is precisely what the visualization I have chosen for this exercise represents. It highlights how hristianity would be destined to fall rather swiftly behind Islam as the world’s most popular faith if not for it's adoption in Sub-Saharan Africa.
+
+# Critique
+## 1. Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
+
+**Things that stood out: \n**
+The **Red line** representing Sub-Saharan Africa draws attention to it immediately which is great.
+The **Chart Title** definitely stood out to me. I had to google what the title implied because I was unaware of it’s significance. In my opinion, the title could have been more self explanatory instead of something so abstract, this will allow the average reader to comprehend it easily.
+The **label** that reads Sub-Saharan Africa aptly conveys that the chart’s main focus is that region.
+
+**What I liked: \n**
+Apt use of **color and typography:** I love how the color red and bold text are used to draw the reader’s attention subtly to the main focus of the chart.  
+
+**What I disliked: \n**
+**Scattered region labels** make it hard to interpret the chart at first glance.
+**Slope charts** typically work when there are fewer variables, 
+**Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
+**The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
+**Actual values** of are not printed so it is subject to inaccurate interpretation
+
+**What I would change: \n**
+I would align the **region labels**
+**Reduce the use of colors** in the chart so as to draw attention to the slope corresponding to Sub-Saharan Africa	
+Maybe change the **chart type** and use a bar chart to represent the same information
+I would certainly change the **chart title** to make it more informative and less abstract
 
 # Wireframe iterations
 
