@@ -25,7 +25,7 @@ I chose this data visualization from The Economist because of its simplicity. Th
 - **Slope charts** typically work when there are fewer variables, 
 - **Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
 - **The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
-- **Actual values** of are not printed so it is subject to inaccurate interpretation
+- **Actual percentage values** of the points are not printed so it is subject to inaccurate interpretation
 
 **What I would change:** <br /> 
 - I would align the **region labels**
@@ -35,7 +35,9 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 ## 2.Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
 
-Visualizations are made for consumption by readers. It is therefore, really important to understand the need of the Audience and this begins with identifying who the audience is.  According to me, the primary audience for this visualization are the **readers of The Economist**. 
+Visualizations are made for consumption by readers. It is therefore, really important to understand the need of the Audience and this begins with identifying who the audience is.  According to me, the primary audience for this visualization are the **readers of The Economist**.
+
+I think 
 
 # WIREFRAMES
 
@@ -57,6 +59,12 @@ Visualizations are made for consumption by readers. It is therefore, really impo
 - "Readers of the economist"
 - "Change: Scale the bars appropriately"
 
+### What I learned:
+
+- In order to enhance the completeness of this visualization I should include the overall change in population as well.
+- Modify the title of the article itself in order to establish a stronger link between the article and the visualization
+- Include a chart title that depicts the idea behind the visualization
+- Use a more neutral color for the other regions in order to increase emphasis on the Sub-Saharan-African region
 ------------------------------------------------------------------------------------
 
 # Second try, after incorporating the feedback received
@@ -64,6 +72,14 @@ Visualizations are made for consumption by readers. It is therefore, really impo
 ![wireframe-2](w2.jpg)
 
 ## Feedback on second iteration:
+
+**Friend 1 (Same as above):**
+- "I see the link between the article and the chart now. I like how you used black instead of blue this time around. I would not change anything else."
+
+**Friend 2 (Same as above):**
+- "I like how you have included the overall variation in the christian population, worldwide. The chart serves its purpose, I don't think you need to change anything"
+
+### I will go ahead with this version for my final draft!
 
 # New Data Viz
 
