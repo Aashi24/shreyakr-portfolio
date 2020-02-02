@@ -20,14 +20,18 @@ I chose this data visualization from The Economist because of its simplicity. Th
 **Friend 1:**
 - "The link between the title of the article and the visualization is not clear. Why would the pope struggle in a place where Christianity is thriving?"
 - "It appears as though the %population is not varying in the blue regions. The Fact that the % population of Christians will double in Sub-Saharan Africa is not emphasised enough"
+- "Audience: Newspaper readers"
+- "Change the title of the article"
 
 **Friend 2:**
 - "What is the over all decline in percentage christian population, worldwide?"
 - "The chart looks vibrant and is eye catchy, my eyes are drawn to the red bars"
+- "Readers of the economist"
+- "Change: Scale the bars appropriately"
 
 ------------------------------------------------------------------------------------
 
-# Second try
+# Second try, after incorporating the feedback received
 
 ## Feedback on second iteration:
 
