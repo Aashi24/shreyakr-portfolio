@@ -26,5 +26,7 @@ Here goes...this is where you can view all of my cool visualizations!
 
 1. [Assignment 2 - OECD data visualization](/Assignment2.md)
 
+2. [Assignment 3 and 4 - Critique by Design](/Assignment3and4.md)
+
 
 Stay tuned for more...
