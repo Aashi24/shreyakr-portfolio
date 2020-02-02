@@ -33,6 +33,10 @@ I chose this data visualization from The Economist because of its simplicity. Th
 - Maybe change the **chart type** and use a bar chart to represent the same information
 - I would certainly change the **chart title** to make it more informative and less abstract
 
+## 2.Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
+
+Visualizations are made for consumption by readers. It is therefore, really important to understand the need of the Audience and this begins with identifying who the audience is.  According to me, the primary audience for this visualization are the **readers of The Economist**. 
+
 # WIREFRAMES
 
 # First try
