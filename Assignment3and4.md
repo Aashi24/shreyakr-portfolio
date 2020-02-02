@@ -15,7 +15,7 @@ The visualization is recreated using the original source data or data that can b
 
 # SUMMARY
 
-In my opinion, this critiquing method is highly effective. It allows us to dissassemble various aspects of a visualization and gauge its effectiveness holistically. Data visualizations are created with the inten of bringing out the patterns and meaning burried in numeric data. They are designed so that the avergae reader can grasp its meaning easily, without having to sift through it to gather its essence. The effectiveness of a visualization therefore relies heavily on the creator's intention to portray a persuasive fact as well as the reader's reception of the message. This particular method of critiquing data visualizations takes into account both these aspects and is therefore a good measure of the effectiveness of a visualization.
+In my opinion, this critiquing method is highly effective. It allows us to dissassemble various aspects of a visualization and gauge its effectiveness holistically. Data visualizations are created with the inten of bringing out the patterns and meaning burried in numeric data. They are designed so that the avergae reader can grasp its meaning easily, without having to sift through it to gather information. The effectiveness of a visualization, therefore, relies heavily on the creator's intention to portray a persuasive narrative as well as the reader's reception of the message. This particular method of critiquing data visualizations takes into account both these aspects and is therefore, a good measure of the effectiveness of a visualization.
 
 
 <- [Return to my Portfolio page](/README.md)
