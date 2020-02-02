@@ -8,4 +8,8 @@ particular change to the data visualization itself. Source information, includin
 visualization and an explanation of the data are included.
 
 
+# SUMMARY
+
+In my opinion, this critiquing method is highly effective. In general data visualizations are designed to portray patterns and meaning hidden in numeric data. 
+
 <- [Return to my Portfolio page](/README.md)
