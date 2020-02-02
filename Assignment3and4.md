@@ -1,12 +1,3 @@
-The student has created a new section on their portfolio page for the assignment, 
-and organized content effectively. A paragraph on why this visualization was included, 
-a couple paragraphs on what the overall process was, insights gleaned from the critique method
-and how it led to the redesign are included. Student has documented what the visualization shows, 
-why it was selected, and what they attempted to do differently. For this criteria the student is graded 
-as much on one's ability to see another way of sharing the same data as on the successfulness of any
-particular change to the data visualization itself. Source information, including a link to original data
-visualization and an explanation of the data are included.
-
 # 1 : Data-Viz chosen from an article in The Economist
 
 Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
@@ -20,9 +11,25 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 # Wireframe iterations
 
-# 1
+# First try
 
+![wireframe-1](w1.jpeg)
 
+## Feedback on first iteration:
+
+**Friend 1:**
+- "The link between the title of the article and the visualization is not clear. Why would the pope struggle in a place where Christianity is thriving?"
+- "It appears as though the %population is not varying in the blue regions. The Fact that the % population of Christians will double in Sub-Saharan Africa is not emphasised enough"
+
+**Friend 2:**
+- "What is the over all decline in percentage christian population, worldwide?"
+- "The chart looks vibrant and is eye catchy, my eyes are drawn to the red bars"
+
+------------------------------------------------------------------------------------
+
+# Second try
+
+## Feedback on second iteration:
 
 # New Data Viz
 
