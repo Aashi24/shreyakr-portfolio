@@ -9,7 +9,7 @@ The imperfections in my work will give me an opportunity to learn. I would reall
 
 # About me
 
-I am grauduate student at Carnegie Mellon University, pursing a Masters in Information Systems Management. I love travelling and learning new things. I am ever inquisitive and have a constant yearning to learn new things that will set me apart from the rest. I fear not from taking risks and this makes life more interesting!  
+I am a grauduate student at Carnegie Mellon University, pursing a Masters in Information Systems Management. I love travelling and learning new things. I am ever inquisitive and have a constant yearning to learn new things that will set me apart from the rest. I fear not from taking risks and this makes life more interesting!  
 
 # What I hope to learn
 
