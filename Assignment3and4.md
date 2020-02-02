@@ -33,6 +33,8 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 # Second try, after incorporating the feedback received
 
+![wireframe-2](w2.jpg)
+
 ## Feedback on second iteration:
 
 # New Data Viz
