@@ -7,7 +7,7 @@ as much on one's ability to see another way of sharing the same data as on the s
 particular change to the data visualization itself. Source information, including a link to original data
 visualization and an explanation of the data are included.
 
-# 1 - Data Vizualization chosen from an Article in The Economist
+# 1 : Data-Viz chosen from an Article in The Economist
 
 Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
 
