@@ -13,25 +13,25 @@ I chose this data visualization from The Economist because of its simplicity. Th
 ## 1. Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
 
 **Things that stood out:** <br />
-The **Red line** representing Sub-Saharan Africa draws attention to it immediately which is great.
-The **Chart Title** definitely stood out to me. I had to google what the title implied because I was unaware of it’s significance. In my opinion, the title could have been more self explanatory instead of something so abstract, this will allow the average reader to comprehend it easily.
-The **label** that reads Sub-Saharan Africa aptly conveys that the chart’s main focus is that region.
+- The **Red line** representing Sub-Saharan Africa draws attention to it immediately which is great.
+- The **Chart Title** definitely stood out to me. I had to google what the title implied because I was unaware of it’s significance. In my opinion, the title could have been more self explanatory instead of something so abstract, this will allow the average reader to comprehend it easily.
+- The **label** that reads Sub-Saharan Africa aptly conveys that the chart’s main focus is that region.
 
 **What I liked:** <br /> 
-Apt use of **color and typography:** I love how the color red and bold text are used to draw the reader’s attention subtly to the main focus of the chart.  
+- Apt use of **color and typography:** I love how the color red and bold text are used to draw the reader’s attention subtly to the main focus of the chart.  
 
 **What I disliked:** <br /> 
-**Scattered region labels** make it hard to interpret the chart at first glance.
-**Slope charts** typically work when there are fewer variables, 
-**Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
-**The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
-**Actual values** of are not printed so it is subject to inaccurate interpretation
+- **Scattered region labels** make it hard to interpret the chart at first glance.
+- **Slope charts** typically work when there are fewer variables, 
+- **Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
+- **The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
+- **Actual values** of are not printed so it is subject to inaccurate interpretation
 
 **What I would change:** <br /> 
-I would align the **region labels**
-**Reduce the use of colors** in the chart so as to draw attention to the slope corresponding to Sub-Saharan Africa	
-Maybe change the **chart type** and use a bar chart to represent the same information
-I would certainly change the **chart title** to make it more informative and less abstract
+- I would align the **region labels**
+- **Reduce the use of colors** in the chart so as to draw attention to the slope corresponding to Sub-Saharan Africa	
+- Maybe change the **chart type** and use a bar chart to represent the same information
+- I would certainly change the **chart title** to make it more informative and less abstract
 
 # Wireframe iterations
 
