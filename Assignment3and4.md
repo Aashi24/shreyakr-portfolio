@@ -17,6 +17,8 @@ The visualization is recreated using the original source data or data that can b
 
 In my opinion, this critiquing method is highly effective. It allows us to dissassemble various aspects of a visualization and gauge its effectiveness holistically. Data visualizations are created with the inten of bringing out the patterns and meaning burried in numeric data. They are designed so that the avergae reader can grasp its meaning easily, without having to sift through it to gather information. The effectiveness of a visualization, therefore, relies heavily on the creator's intention to portray a persuasive narrative as well as the reader's reception of the message. This particular method of critiquing data visualizations takes into account both these aspects and is therefore, a good measure of the effectiveness of a visualization.
 
-Data Viz is a powerful tool for persuading readers, they should be informative by providing intellectual stimuli as well as emotive in the sense that it produces a powerful emotional response in the reader. 
+Data-Viz is a powerful tool that can be used to persuade readers. They should be informative and provide intellectual stimuli as well as emotive in the sense that it produces a powerful emotional response in the reader. The Data Visualization Effectiveness Profile critiquing method assess visualizations from both perspectives which makes it very effective. What I like most about this is that it allows one to assess visualizations from a reader's perspective.  
+
+Since we analyse a visualtisation using 7 holistic metrics, it helps us identify precisely which area needs enhancement and why a particular visualisation isn't quite working. This process helps in the refinement process since we know exactly what to fix in order to make a data-viz more effective.
 
 <- [Return to my Portfolio page](/README.md)
