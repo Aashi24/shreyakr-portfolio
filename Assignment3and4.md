@@ -7,6 +7,7 @@ as much on one's ability to see another way of sharing the same data as on the s
 particular change to the data visualization itself. Source information, including a link to original data
 visualization and an explanation of the data are included.
 
+![](/Screen%20Shot%202020-02-01%20at%209.16.48 PM.png)
 # Feedback on wireframes
 
 # New Data Viz
