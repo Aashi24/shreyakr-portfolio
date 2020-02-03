@@ -1,6 +1,6 @@
 # 1 : Data-Viz chosen from an article in The Economist
 
-Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
+Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa) || 
 Data: [Google Sheet containing data](https://docs.google.com/spreadsheets/d/1pyzSom5sEEfFfPO4ZvZyEYLYA4pjxNGf5SlrITmuuJI/edit?usp=sharing)
 
 ![Economist-Viz](SubSaharanAfricaEconomist.png)
