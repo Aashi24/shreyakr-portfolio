@@ -24,7 +24,7 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 **What I disliked:** <br /> 
 - **Scattered region labels** make it hard to interpret the chart at first glance.
-- **Slope charts** typically work when there are fewer variables, 
+- **Slope charts** typically work when there are fewer variables, there are too many variables here.
 - **Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
 - **The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
 - **Actual percentage values** of the points are not printed so it is subject to inaccurate interpretation
@@ -43,6 +43,24 @@ According to me I would rate the effictiveness of this visualization as follows:
 
 ![rating-1](c1.jpg)
 
+**Informative:** </br> 
+- Usefulness  - I think this visualization is quite useful, it supports the creator's narrative about the issues faced by the Pope in Sub Saharan Africa, in spite of the fact that Christianity is thriving there.
+
+- Completeness - I think it is only moderately complete because it only teases a decline in the total Christian population across the globe but does not show the actual decline, which is not as high as it may appear.
+
+- Perceptibility - The chart’s perceptibility is slightly low since it takes a while for a reader like me to comprehend what it is trying to convey. Multiple variables in a slope chart make it harder to comprehend
+
+- Truthfulness - The chart does justice to the data it represents. However, it portrays a significant decline in the Christian population in major regions of the world indicating a huge overall decline. This is certainly not true and the total decline over the next 50 years is estimated to be 1%. Therefore, in my opinion, the chart is truthful but lacks some information.
+
+- Intuitiveness - The slope chart indicates the trend (incline or decline) but is not as intuitive	as a bar chart might be.  
+ 
+
+**Emotive:** </br>
+- Aesthetics  - Overall the chart is pleasing to the eye and is not very hard to comprehend
+- Engagement - I think the chart is highly engaging because it makes one aware of the current region wise statistics and think further about the bigger picture. For instance, I was prompted to think about the total decline.
+
+Overall, having considered all the above reasons, I think the visualization is moderately effective in conveying its meaning to the audience.
+
 ## Reference
 
 Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
@@ -50,11 +68,13 @@ http://www.perceptualedge.com/articles/visual_business_intelligence/data_visuali
 
 ## 3. Final thoughts: how successful was this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
-exhastive better than good chart
+This critiquing method was very effective in evaluating the data visualization. More importantly, it was very helpful in the whole redesigning process because it helped in identifying exactly what the shortcomings of the visualization are. While this method allows us to gauge the effectiveness of a chart using 7 different criteria, the Good Charts method allows us to be more specific about what we like and dislike in terms of color, typography, etc.  It is definitely more detailed than the good charts critiquing method but I think both of them work really well together. 
 
-time 
+If I have to pick out some measures that I feel are missing, I would choose **‘Level of emphasis on the main issue’** and **‘Accessibility’**.
 
-medium
+- The level of emphasis on the main issue will be a measure of how well the chart draws the reader's attention to the main point. Here that would be the fact that Sub-Saharan Africa has an increasing trend while the rest have a decreasing trend.
+
+- Accessibility refers to whether the chart retains all important information if plotted in a monotone palette, put differently, whether readers with color blindness can infer all necessary information from it, or not. 
 
 
 # 3 & 4 : WIREFRAMES AND FEEDBACK
