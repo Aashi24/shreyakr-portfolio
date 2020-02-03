@@ -42,6 +42,10 @@ Visualizations are made for consumption by readers. It is therefore, really impo
 According to me I would rate the effictiveness of this visualization as follows:
 
 ![rating-1](c1.jpg)
+### Reference
+
+Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
+http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 **Informative:** </br> 
 - Usefulness  - I think this visualization is quite useful, it supports the creator's narrative about the issues faced by the Pope in Sub Saharan Africa, in spite of the fact that Christianity is thriving there.
@@ -60,11 +64,6 @@ According to me I would rate the effictiveness of this visualization as follows:
 - Engagement - I think the chart is highly engaging because it makes one aware of the current region wise statistics and think further about the bigger picture. For instance, I was prompted to think about the total decline.
 
 Overall, having considered all the above reasons, I think the visualization is moderately effective in conveying its meaning to the audience.
-
-## Reference
-
-Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
-http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 ## 3. Final thoughts: how successful was this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
