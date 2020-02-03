@@ -139,7 +139,7 @@ Lastly, I used Stephen Few's critiquing method yet again to check if the new vis
 
 My take away from this exercise is that seeking feedback is absolutely crucial to designing effective and persuasive visualizations.
 
-## Why is this better?
+## How is the new visualization better?
 
 - **Usefulness:** The level of usefullness remains the same
 - **Completeness:** By including an additional chart that depicts the overall change in the percentage Christian population, this new visualization paints a more complete picture.
