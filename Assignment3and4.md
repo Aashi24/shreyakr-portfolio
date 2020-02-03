@@ -41,9 +41,13 @@ According to me I would rate the effictiveness of this visualization as follows:
 
 ![rating-1](c1.jpg)
 
-## 3. Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
+## 3. Final thoughts: how successful was this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
+exhastive better than good chart
 
+time 
+
+medium
 
 
 # 3. WIREFRAMES
@@ -95,7 +99,6 @@ According to me I would rate the effictiveness of this visualization as follows:
 ![New-Data-Viz](worldPop.png)
 
 ![New-Data-Viz-additional](totalpop.png)
-
 
 
 The visualization is recreated using the original source data or data that can be found elsewhere. Student has recreated the visualization using one of the tools from class. The new visualization is effective and would pass the critique test well in most areas, and appears to have been designed to address some of the shortcomings identified in the earlier visualization. The content is carefully crafted in positively impacts the interpretation of the data and visualization. Colors support the understanding of information and don't distract from the message.
