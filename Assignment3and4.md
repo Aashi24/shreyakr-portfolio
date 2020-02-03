@@ -2,6 +2,8 @@
 
 Article: [Why Pope Francis struggles in Africa](https://www.economist.com/middle-east-and-africa/2019/09/07/why-pope-francis-struggles-in-africa)
 
+DataL: [Google Sheet containing data](https://docs.google.com/spreadsheets/d/1pyzSom5sEEfFfPO4ZvZyEYLYA4pjxNGf5SlrITmuuJI/edit?usp=sharing)
+
 ![Economist-Viz](SubSaharanAfricaEconomist.png)
 
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
