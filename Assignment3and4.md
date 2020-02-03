@@ -13,12 +13,6 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 # 2 : CRITIQUE
 
-## Reference
-
-Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
-http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
-
-
 ## 1. Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
 
 **Things that stood out:** <br />
@@ -49,6 +43,11 @@ Visualizations are made for consumption by readers. It is therefore, really impo
 According to me I would rate the effictiveness of this visualization as follows:
 
 ![rating-1](c1.jpg)
+
+## Reference
+
+Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
+http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 ## 3. Final thoughts: how successful was this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
