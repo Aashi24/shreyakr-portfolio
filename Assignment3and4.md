@@ -149,7 +149,7 @@ My take away from this exercise is that seeking feedback is absolutely crucial t
 - **Aesthetics:** The new one is less cluttered and pleasing to look at.
 - **Engaement:** The level of engagement remains the same.
 
-Overall, this is a good attempt at making the chosen visualization more effective.
+The main areas I sought to improve were, completeness, Perceptibility and intuitiveness. Overall, this is a good attempt at making the chosen visualization more effective. 
 
 # 6 : SUMMARY
 
