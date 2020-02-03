@@ -127,8 +127,17 @@ If I have to pick out some measures that I feel are missing, I would choose **â€
 ![New-Data-Viz-additional](totalpop.png)
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
+## Why is this better?
 
-The visualization is recreated using the original source data or data that can be found elsewhere. Student has recreated the visualization using one of the tools from class. The new visualization is effective and would pass the critique test well in most areas, and appears to have been designed to address some of the shortcomings identified in the earlier visualization. The content is carefully crafted in positively impacts the interpretation of the data and visualization. Colors support the understanding of information and don't distract from the message.
+- **Usefulness:** The level of usefullness remains the same
+- **Completeness:** By including an additional chart that depicts the overall change in the percentage Christian population, this new visualization paints a more complete picture.
+- **Perceptibilty:** The information in Bar charts is more easily perceived than in slope charts
+- **Truthfulness:** Truthfulness is marginally improved.
+- **Intuitiveness:** Bar charts are familiar visualizations and are more intuitive.
+- **Aesthetics:** The new one is less cluttered and pleasing to look at.
+- **Engaement:** The level of engagement remains the same.
+
+Overall, this is a good attempt at making the chosen visualization more effective.
 
 # 6 : SUMMARY
 
