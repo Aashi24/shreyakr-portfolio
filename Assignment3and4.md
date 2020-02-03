@@ -90,6 +90,9 @@ I think
 
 # New Data Viz
 
+![New-Data-Viz](worldPop.png)
+
+
 The visualization is recreated using the original source data or data that can be found elsewhere. Student has recreated the visualization using one of the tools from class. The new visualization is effective and would pass the critique test well in most areas, and appears to have been designed to address some of the shortcomings identified in the earlier visualization. The content is carefully crafted in positively impacts the interpretation of the data and visualization. Colors support the understanding of information and don't distract from the message.
 
 # SUMMARY
