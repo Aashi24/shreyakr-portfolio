@@ -78,7 +78,7 @@ If I have to pick out some measures that I feel are missing, I would choose **â€
 
 # 3 & 4 : WIREFRAMES AND FEEDBACK
 
-# First try
+# 1. First try
 
 ![wireframe-1](w1.jpg)
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
@@ -94,7 +94,7 @@ If I have to pick out some measures that I feel are missing, I would choose **â€
 **Friend 2:**
 - "What is the over all decline in percentage christian population, worldwide?"
 - "The chart looks vibrant and is eye catchy, my eyes are drawn to the red bars"
-- "Readers of the economist"
+- "Audience: Readers of the economist"
 - "Change: Scale the bars appropriately"
 
 ### What I learned:
@@ -105,7 +105,7 @@ If I have to pick out some measures that I feel are missing, I would choose **â€
 - Use a more neutral color for the other regions in order to increase emphasis on the Sub-Saharan-African region
 ------------------------------------------------------------------------------------
 
-# Second try, after incorporating the feedback received
+# 2. Second try, after incorporating the feedback received
 
 ![wireframe-2](w2.jpg)
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
@@ -121,11 +121,23 @@ If I have to pick out some measures that I feel are missing, I would choose **â€
 
 # 5 : REDESIGN OF THE VISUALIZATION
 
+## a) Sub-Saharan Africa is the biggest area of expansion for christianity
 ![New-Data-Viz](worldPop.png)
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
+## b) Overall change in the Global Christian Population as a percentage of Total
 ![New-Data-Viz-additional](totalpop.png)
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
+
+# The overall process
+
+These visualizations are a product of what I learned through the new critiquing method. In order to develop these, I had to understand some of the shortcomings of the chosen visualization. Once I had understood the areas for improvement, I used wireframes to design an improved version. An integral part of this process was getting feedback from my friends. Initially, I thought that my first wireframe was flawless. It was only when I sought feedback, that I realized that it needed clarity enhancements and more changes.
+
+I took the constructive feedback and incorporated it into another draft of wireframes. I also chose to add another chart to build a more persuasive visualization. This time around, my wireframe passed the litmus test. Once I had my wireframes ready all that was left was to create the visualization. I designed both the new visualizations using Tableau, which was really easy to use. 
+
+Lastly, I used Stephen Few's critiquing method yet again to check if the new visualizations I created were more effective. In my opinion, they were indeed more effective and easier to comprehend by readers. 
+
+My take away from this exercise is that seeking feedback is absolutely crucial to designing effective and persuasive visualizations.
 
 ## Why is this better?
 
@@ -141,10 +153,10 @@ Overall, this is a good attempt at making the chosen visualization more effectiv
 
 # 6 : SUMMARY
 
-In my opinion, this critiquing method is highly effective. It allows us to dissassemble various aspects of a visualization and gauge its effectiveness holistically. Data visualizations are created with the inten of bringing out the patterns and meaning burried in numeric data. They are designed so that the avergae reader can grasp its meaning easily, without having to sift through it to gather information. The effectiveness of a visualization, therefore, relies heavily on the creator's intention to portray a persuasive narrative as well as the reader's reception of the message. This particular method of critiquing data visualizations takes into account both these aspects and is therefore, a good measure of the effectiveness of a visualization.
+In my opinion, this critiquing method is highly effective. It allows us to disassemble various aspects of visualization and gauge its effectiveness holistically. Data visualizations are created with the intent of bringing out the patterns and meaning buried in numeric data. They are designed so that the average reader can grasp its meaning easily, without having to sift through it to gather information. The effectiveness of a data visualization, therefore, relies heavily on the creator's intention to portray a persuasive narrative as well as the reader's reception of the message. This particular method of critiquing data visualizations takes into account both these aspects and is, therefore, a good measure of the effectiveness of a data visualization.
 
-Data-Viz is a powerful tool that can be used to persuade readers. They should be informative and provide intellectual stimuli as well as emotive in the sense that it produces a powerful emotional response in the reader. The Data Visualization Effectiveness Profile critiquing method assess visualizations from both perspectives which makes it very effective. What I like most about this is that it allows one to assess visualizations from a reader's perspective.  
+Data-Viz is a powerful tool that can be used to persuade readers. They should be informative and provide intellectual stimuli as well as emotive in the sense that it produces a powerful emotional response in the reader. The Data Visualization Effectiveness Profile critiquing method assesses visualizations from both perspectives which makes it very effective. What I like most about this is that it allows one to assess visualizations from a reader's perspective.  
 
-Since we analyse a visualtisation using 7 holistic metrics, it helps us identify precisely which area needs enhancement and why a particular visualisation isn't quite working. This process helps in the refinement process since we know exactly what to fix in order to make a data-viz more effective.
+Since we analyze a visualization using 7 holistic metrics, it helps us identify precisely which area needs enhancement and why a particular visualization isn't quite working. This process helps in the refinement process since we know exactly what to fix in order to make a data-viz more effective.
 
 <- [Return to my Portfolio page](/README.md)
