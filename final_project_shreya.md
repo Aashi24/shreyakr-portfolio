@@ -1,7 +1,7 @@
 # Part I : Project Proposal
 
 
-# 1. OUTLINE
+# 1. Outline
 Proposal includes a high-level summary of the project (sentence or two); project structure that outlines major elements of the story; story arc is described; call to action is identified.
 
 At a minimum, you should include the following: 
@@ -30,11 +30,11 @@ I have learnt through this class that it is essential to understand who our adiu
 
 As a reader, I want **to be more cognizant of my impact on the environment** so that I can **do my bit to save the planet.**
 
-# 2. INITIAL SKETCHES
+# 2. Initial Sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
-# 3. THE DATA
+# 3. The Data
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
-# 4. METHOD AND MEDIUM
+# 4. Method and Medium
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
 
 
