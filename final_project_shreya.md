@@ -13,7 +13,7 @@ A project structure that outlines the major elements of your story.  Your Good C
 
 ### "Plastic or Planet? The choice is easy but the change is challenging!"
 
-For the final project I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes that will contribute to the solution of this problem in a small but significant way.
+For the final project I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles that will contribute to the solution of this problem in a small but significant way.
 
 ## Inspiration:
 
