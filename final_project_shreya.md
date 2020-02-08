@@ -1,4 +1,4 @@
-# Part I : a project proposal
+# Part I : Project Proposal
 
 
 # 1. OUTLINE
@@ -9,18 +9,18 @@ At a minimum, you should include the following:
 A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories. 
 
-## Summary: 
+## Summary : 
 
 ### "Plastic or Planet? The choice is easy but the change is challenging!"
 
 For the final project I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles that will contribute to the solution of this problem in a small but significant way.
 
-## Inspiration:
+## Inspiration :
 
 This work is deeply inspired by National Geographics coverage of the problem and their initiatives to curb the menace. I watched a few documentaries which are part of **THE STORY OF PLASTIC** series that changed my mind. I want my work to have the same impact on my readers.
 
 
-## Approach: 
+## Approach : 
 
 ## Understanding my audience
 
@@ -32,8 +32,8 @@ As a reader, I want **to be more cognizant of my impact on the environment** so 
 
 # 2. INITIAL SKETCHES
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
-# 3. The data
+# 3. THE DATA
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
-# 4. Method and medium
+# 4. METHOD AND MEDIUM
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
 <- [Return to my Portfolio page](/README.md)
