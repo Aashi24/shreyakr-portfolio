@@ -4,9 +4,13 @@
 # 1. outline
 Proposal includes a high-level summary of the project (sentence or two); project structure that outlines major elements of the story; story arc is described; call to action is identified.
 
-## One line summary of my project
+## One sentence summary :
 
-### "Plastic or Planet? \textcolor{red}{red} The choice is easy but the change is challenging! \textcolor{red}{red}"
+### "Plastic or Planet? The choice is easy but the change is challenging!"
+
+## Here's what I want my reader to understand :
+
+As a reader, I want ***to be more cognizant of my impact on the environment*** So that I can ***do my bit to save the planet.***
 
 # 2. Initial sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
