@@ -28,7 +28,7 @@ Here goes...this is where you can view all of my cool visualizations!
 
 2. [Assignment 3 and 4 - Critique by Design](/Assignment3and4.md)
 
-3. [Project Proposal](/final_project_shreya.md)
+3. [Part 1 - Project Proposal](/final_project_shreya.md)
 
 
 Stay tuned for more...
