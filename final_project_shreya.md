@@ -1,7 +1,7 @@
-# Part I: a project proposal
+# Part I : a project proposal
 
 
-# 1. outline
+# 1. OUTLINE
 Proposal includes a high-level summary of the project (sentence or two); project structure that outlines major elements of the story; story arc is described; call to action is identified.
 
 At a minimum, you should include the following: 
@@ -20,17 +20,17 @@ For the final project I have chosen to focus on the problem of plastic pollution
 This work is deeply inspired by National Geographics coverage of the problem and their initiatives to curb the menace. I watched a few documentaries which are part of **THE STORY OF PLASTIC** series that changed my mind. I want my work to have the same impact on my readers.
 
 
-### Approach: 
+## Approach: 
 
-This work is deeply inspired by National Geographics coverage of the problem and initiatives to curb the menace.
+## Understanding my audience
 
-
+I have learnt through this class that it is essential to understand who our adiuence is in order to connect with them through our work and this is presicely why I have included this section. Well, I have had the privilege of sharing this class at Heinz with future ploicy makers and influencers. So I would like to use this as a thought provoking tool to convince people in this class as well as people across the globe to act fast on this issue. In order to alleviate this problem we are going to require policy reforms but before all that we have to take small steps as a citizens of this planet to do our bit. And this begins by understanding the problem and the fact that our contribution is an integral part of the solution.
 
 ## Here's what I want my reader to understand :
 
 As a reader, I want **to be more cognizant of my impact on the environment** so that I can **do my bit to save the planet.**
 
-# 2. Initial sketches
+# 2. INITIAL SKETCHES
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 # 3. The data
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
