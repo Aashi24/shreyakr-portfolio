@@ -36,4 +36,7 @@ Clear and understandable sketches created and available on the Github page. Sket
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
 # 4. METHOD AND MEDIUM
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
+
+
+
 <- [Return to my Portfolio page](/README.md)
