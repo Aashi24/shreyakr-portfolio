@@ -6,7 +6,7 @@ Proposal includes a high-level summary of the project (sentence or two); project
 
 ## One line summary of my project
 
-### "Plastic or Planet? The choice is easy but the change is challenging!"
+### "Plastic or Planet? \textcolor{red}{red} The choice is easy but the change is challenging! \textcolor{red}{red}"
 
 # 2. Initial sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
