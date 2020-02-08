@@ -9,9 +9,22 @@ At a minimum, you should include the following:
 A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories. 
 
-## One sentence summary :
+## Summary: 
 
 ### "Plastic or Planet? The choice is easy but the change is challenging!"
+
+For the final project I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes that will contribute to the solution of this problem in a small but significant way.
+
+## Inspiration:
+
+This work is deeply inspired by National Geographics coverage of the problem and their initiatives to curb the menace. I watched a few documentaries which are part of **THE STORY OF PLASTIC** series that changed my mind. I want my work to have the same impact on my readers.
+
+
+### Approach: 
+
+This work is deeply inspired by National Geographics coverage of the problem and initiatives to curb the menace.
+
+
 
 ## Here's what I want my reader to understand :
 
