@@ -22,6 +22,12 @@ This work is deeply inspired by National Geographics coverage of the problem and
 
 ## Approach : 
 
+- The untold story of plastic and its evolution  
+-- How did this happen? When did all this begin? How big is this problem now?
+- Putting this in perspective
+- How Plastic Pollution is affecting the Ocean Wildlife
+- It is also taking human lives
+- Call to action : Initiatives people can take or partake in
 ## Understanding my audience : 
 
 I have learnt through this class that it is essential to understand who our adiuence is in order to connect with them through our work and this is presicely why I have included this section. Well, I have had the privilege of sharing this class at Heinz with future ploicy makers and influencers. So I would like to use this as a thought provoking tool to convince people in this class as well as people across the globe to act fast on this issue. In order to alleviate this problem we are going to require policy reforms but before all that we have to take small steps as a citizens of this planet to do our bit. And this begins by understanding the problem and the fact that our contribution is an integral part of the solution.
