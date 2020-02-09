@@ -61,6 +61,10 @@ I have learnt through this class that it is essential to understand who our adiu
 
 As a reader, I want **to be more cognizant of my impact on the environment** so that I can **do my bit to save the planet.**
 
+## Call to Action : 
+
+Sustainable living......
+
 # 2. Initial Sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 # 3. The Data
