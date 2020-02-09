@@ -23,14 +23,18 @@ This work is deeply inspired by National Geographics coverage of the problem and
 ## Approach : 
 
 - The untold story of plastic and its evolution  
+
 -- How did this happen? When did all this begin?
 - Putting this in perspective (discuss the scale at which plastic is produced and dumped) 
+
 -- How big is this problem now? Why can't we just recycle
 - How Plastic Pollution is affecting the Ocean Wildlife and other living creatures
 - Did you know...It is also taking human lives
+
 -- Here's how and how many
-- Okay Boomer! 
--- We can do better, this is our world, it is in our hands now!
+- Okay Boomer!
+
+--  We can do better, this is our world, it is in our hands now!
 - Call to action : Initiatives people can take or partake in
 ## Understanding my audience : 
 
