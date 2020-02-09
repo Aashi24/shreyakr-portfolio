@@ -63,7 +63,10 @@ As a reader, I want **to be more cognizant of my impact on the environment** so 
 
 ## Call to Action : 
 
-Sustainable living......
+Take National Geographic's Pledge against Plastic and make a genuine effort to reduce your plastic consumption. Small changes will go a long way! 
+As future policy makers and influencers we should all take actions in order to curb this plastic ma
+
+It is time to say "Okay Boomer" and undo the damage done to our planet because of sheer neglect.
 
 # 2. Initial Sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
@@ -75,6 +78,10 @@ Data: [Google Sheets containing data](https://docs.google.com/spreadsheets/d/1AH
 # 4. Method and Medium
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
 
+I will be completing the project in 4 steps
 
+My method of story telling will be through persuasive imagery and persuasive data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
+
+Having explored Shorthand and some really interesting content created using the platform, I have decided to build my final project using the tool. 
 
 <- [Return to my Portfolio page](/README.md)
