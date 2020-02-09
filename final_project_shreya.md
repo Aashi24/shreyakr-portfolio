@@ -53,6 +53,19 @@ This work is deeply inspired by National Geographics coverage of the problem and
 
 ![Story Arc](story_arc.jpg)
 
+## Feedback on Story Arc : 
+
+- I really like the scale you've deviced for this story arc (well designed Y-axis) .
+- Where do you think you want your Audience to focus? If there is just one take back for them, what would it be?
+
+### Slightly modified Story Arc : 
+
+More emphasis on the call for action : 
+
+
+
+
+
 ## Understanding my audience : 
 
 I have learnt through this class that it is essential to understand who our adiuence is in order to connect with them through our work and this is presicely why I have included this section. Well, I have had the privilege of sharing this class at Heinz with future ploicy makers and influencers. So I would like to use this as a thought provoking tool to convince people in this class as well as people across the globe to act fast on this issue. In order to alleviate this problem we are going to require policy reforms but before all that we have to take small steps as a citizens of this planet to do our bit. And this begins by understanding the problem and the fact that our contribution is an integral part of the solution.
