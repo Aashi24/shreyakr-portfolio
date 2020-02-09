@@ -40,6 +40,13 @@ This work is deeply inspired by National Geographics coverage of the problem and
 - Common things that are a huge cause of plastic pollution
 
 -- Tooth brushes, plastic bags, sneakers, cigarettes
+
+- The Universe is infinite why can't we trash our plastic there and rid the earth of it?
+
+-- Not unless we have 33 Gazzillion Dollars lying around!
+
+- These are the only plausible alternatives and the change begins with us!
+
 - Call to action : Initiatives people can take or partake in
 ## Understanding my audience : 
 
