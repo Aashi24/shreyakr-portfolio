@@ -29,6 +29,7 @@ This work is deeply inspired by National Geographics coverage of the problem and
 
 -- How big is this problem now? Why can't we just recycle
 - How Plastic Pollution is affecting the Ocean Wildlife and other living creatures
+-- Visuals and Data Visualizations
 - Did you know...It is also taking human lives
 
 -- Here's how and how many
