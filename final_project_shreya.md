@@ -27,7 +27,7 @@ This work is deeply inspired by National Geographic's coverage of the problem an
 -Okay, Boomer!
   - We can do better, this is our world, it is in our hands now!
 - Common things that are a huge cause of plastic pollution
-  - Tooth brushes, plastic bags, sneakers, cigarettes
+  - Toothbrushes, plastic bags, sneakers, cigarettes
 - The Universe is infinite why can't we trash our plastic there and rid the earth of it?
   - Not unless we have 33 Gazillion Dollars lying around!
 - These are the only plausible alternatives and the change begins with us!
@@ -94,7 +94,8 @@ It is time to say "Okay Boomer" and undo the damage done to our planet because o
 ![Call for Action](s6.jpg)
 
 # 3. The Data
-Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
+
+As mentioned previously, National Geographic's coverage of this issue inspired me to choose this topic. So, a lot of data that I will cite and visualise are from their website. In addition to that, I found other reliable sources that detail other facets of this mammoth problem. The final dataset used is a combination of all these sources. I intend on deriving my visualizations and some of my content from here.
 
 Data: 
 
@@ -110,7 +111,8 @@ This website contains data visualizations and data pertaining to the plastic pol
 
 
 # 4. Method and Medium
-A few paragraphs documenting how the project will be completed. Platform for the final project identified.
+
+## Method
 
 I will be completing the project in 3 steps
 
@@ -140,13 +142,12 @@ Step III:
 - Gauge the effectiveness of the story.
 - Piece it all together on shorthand. 
 - Design and create a digital story on shorthand using enticing visuals and imagery to depict the problem in all fairness.
-- 
 
 
-An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (due 2/9)
-Part II: Wireframes, storyboards, moodboards and user research.  User research and incorporating user feedback. (due 2/16)
+## Medium
+
+ In order to create my visualizations, I will rely on **Tableau and RawGraphs**. To choose an apt color palette I will be using **Colorbrewer**. Finally, to piece it all together, I will use **Shorthand**, this is also the platform I will present my work on.
 
 
-Having explored Shorthand and some really interesting content created using the platform, I have decided to build my final project using the tool. 
 
 <- [Return to my Portfolio page](/README.md)
