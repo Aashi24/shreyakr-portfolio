@@ -76,8 +76,19 @@ As future policy makers and influencers we should all take actions in order to c
 It is time to say "Okay Boomer" and undo the damage done to our planet because of sheer neglect.
 
 # 2. Initial Sketches
-Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
+Introduction: The Story of Plastic
+![Story of plastic](s1.jpg)
+
+![Our consumption](s2.jpg)
+
+![Plastics are harming wildlife](s3.jpg)
+
+![Plastics are killing humans](s4.jpg)
+
+![Policy Reforms and Simple steps](s5.jpg)
+
+![Call for Action](s6.jpg)
 
 # 3. The Data
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
