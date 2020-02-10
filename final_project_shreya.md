@@ -63,7 +63,7 @@ This work is deeply inspired by National Geographics coverage of the problem and
 More emphasis on the call for action : 
 
 
-
+![Modified Story Arc](modified_story_arc.jpg)
 
 
 ## Understanding my audience : 
@@ -93,7 +93,21 @@ A few paragraphs documenting how the project will be completed. Platform for the
 
 I will be completing the project in 4 steps
 
-My method of story telling will be through persuasive imagery and persuasive data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
+My method of story telling will be through persuasive imagery and data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
+
+Step I: 
+- Conduct thorough research on the topic of plastic pollution
+- Outline key points that I would like to convey to the audience
+- Collect Data form multiple sources, clean and compile it
+- Based on the stroy I would like to share, chart a story arc which will give me a sense of the kind of effect I want each part of my work to have on my audience. 
+- Get feedback on the story arc and see if the story is cohesive and engaging.
+- Refine the story arc 
+- Begin sketching key aspects of the project and piece all the information together.
+- Rearrange some parts and
+
+An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (due 2/9)
+Part II: Wireframes, storyboards, moodboards and user research.  User research and incorporating user feedback. (due 2/16)
+
 
 Having explored Shorthand and some really interesting content created using the platform, I have decided to build my final project using the tool. 
 
