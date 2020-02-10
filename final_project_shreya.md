@@ -7,7 +7,7 @@
 
 ## Summary : 
 
-For the final project, I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles that will contribute to the solution of this problem in a small but significant way.
+For the final project, I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as National Geographic, World Economic Forum, The telegraph and Oxford University's data source - Our world in Data. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles. This will contribute to the solution of this problem in a small but significant way and help curb this menace. Millions of sea creatures are falling prey to this and the numbers are on a horrific rise. The problem is more serious that it appears on the surface and I seek to take the audience right into the heart of the crisis so that they can choose for themselves, whether, Planet or Plastic!
 
 ## Inspiration :
 
@@ -119,7 +119,7 @@ I will be completing the project in 3 steps
 My method of story telling will be through persuasive imagery and data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
 
 ------------------------------------------------------------------------------------------------------------------------------
-**Step I:** 
+**Step I:**  <- We are here right now!
 - Conduct thorough research on the topic of plastic pollution
 - Outline key points that I would like to convey to the audience
 - Collect Data form multiple sources, clean and compile it
