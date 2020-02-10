@@ -28,6 +28,7 @@ This work is deeply inspired by National Geographics coverage of the problem and
 - Did you know...It is also taking human lives
 
 -- Here's how and how many
+
 - Okay Boomer!
 
 --  We can do better, this is our world, it is in our hands now!
@@ -77,16 +78,27 @@ It is time to say "Okay Boomer" and undo the damage done to our planet because o
 
 # 2. Initial Sketches
 
-Introduction: The Story of Plastic
+1. Introduction: The Story of Plastic
+
 ![Story of plastic](s1.jpg)
 
-![Our consumption](s2.jpg)
+2. Environmental Impact
 
-![Plastics are harming wildlife](s3.jpg)
+![Environment](s2.jpg)
 
-![Plastics are killing humans](s4.jpg)
+3. Plastics are slowly killing Millions of Humans
+
+![Plastics are killing humans](s3.jpg)
+
+4. Let us reflect on our consumption
+
+![Our consumption](s4.jpg)
+
+5. Policy reforms required, the world scenario and simple steps we can take to save the planet
 
 ![Policy Reforms and Simple steps](s5.jpg)
+
+5. Call for Action - Pledge against Plastic!
 
 ![Call for Action](s6.jpg)
 
@@ -99,20 +111,17 @@ Data:
 
 This google sheets link has data collected from multiple sources. Data from different sources are organised in different sheets and each of these sheets has a link to the data source.
 
-The first sheet is a list of all the data sources and their corresponding links.
-
-The rest of the sheets are as listed below:
-- 
-
+It has 7 sheets in total, the first sheet is a list of all the data sources and their corresponding links. The remaining six contain the actual data. Another sheet appended at the end of this file contains names and sources of some images that I plan to use.
 
 - [Our world in data - plastic pollution](https://ourworldindata.org/plastic-pollution)
 
+This website contains data visualizations and data pertaining to the plastic pollution problem. It is sourced from Oxford University.
 
 
 # 4. Method and Medium
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
 
-I will be completing the project in 4 steps
+I will be completing the project in 3 steps
 
 My method of story telling will be through persuasive imagery and data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
 
@@ -124,7 +133,24 @@ Step I:
 - Get feedback on the story arc and see if the story is cohesive and engaging.
 - Refine the story arc 
 - Begin sketching key aspects of the project and piece all the information together.
-- Rearrange some parts and
+- Rearrange some parts based on relevance and feedback received on the sketches.
+
+Step II:
+
+- Based on the feedback I receive on the sketches I will create wireframes for my final 
+- Decide a color scheme and theme for the final output
+- Refine and visualize the data collected using Tableau
+- Experiment with shorthand and get familiar with the environment
+- Come up with a first draft of the project using shorthand to get early feedback from peers
+
+Step III:
+
+- Use the 2 crtitiquing methods we have learnt to identify shortfalls in the visualizations and take corrective action.
+- Gauge the effectiveness of the story.
+- Piece it all together on shorthand. 
+- Design and create a digital story on shorthand using enticing visuals and imagery to depict the problem in all fairness.
+- 
+
 
 An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (due 2/9)
 Part II: Wireframes, storyboards, moodboards and user research.  User research and incorporating user feedback. (due 2/16)
