@@ -86,7 +86,12 @@ Clear and understandable sketches created and available on the Github page. Sket
 # 3. The Data
 Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
 
-Data: [Google Sheets containing data](https://docs.google.com/spreadsheets/d/1AHCi-UIvZsHg_qm53ricrzInUJc23C5QepnS6lw2utg/edit?usp=sharing)
+Data: 
+
+- [Google Sheets containing data](https://docs.google.com/spreadsheets/d/1AHCi-UIvZsHg_qm53ricrzInUJc23C5QepnS6lw2utg/edit?usp=sharing)
+- [Our world in data - plastic pollution](https://ourworldindata.org/plastic-pollution)
+
+
 
 # 4. Method and Medium
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
