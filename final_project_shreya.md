@@ -54,7 +54,7 @@ More emphasis on the call for action :
 
 ## Understanding my audience : 
 
-I have learnt through this class that it is essential to understand who our adiuence is in order to connect with them through our work and this is presicely why I have included this section. Well, I have had the privilege of sharing this class at Heinz with future ploicy makers and influencers. So I would like to use this as a thought provoking tool to convince people in this class as well as people across the globe to act fast on this issue. In order to alleviate this problem we are going to require policy reforms but before all that we have to take small steps as a citizens of this planet to do our bit. And this begins by understanding the problem and the fact that our contribution is an integral part of the solution.
+I have learned through this class that it is essential to understand who our audience is, in order to connect with them through our work. I have had the privilege of sharing this class at Heinz with future policymakers and influencers. So, I would like to use this project as a thought-provoking tool to convince people in this class as well as people across the globe to act fast on the issue of Plastic Pollution. In order to alleviate this problem, we are going to require policy reforms but before all that, we have to take small steps and make immediate lifestyle changes as citizens of this planet to do our bit. This begins by understanding the problem and the fact that our contribution is an integral part of the solution.
 
 ## Here's what I want my reader to understand :
 
@@ -122,8 +122,8 @@ My method of story telling will be through persuasive imagery and data visualiza
 **Step I:**  <- We are here right now!
 - Conduct thorough research on the topic of plastic pollution
 - Outline key points that I would like to convey to the audience
-- Collect Data form multiple sources, clean and compile it
-- Based on the stroy I would like to share, chart a story arc which will give me a sense of the kind of effect I want each part of my work to have on my audience. 
+- Collect Data from multiple sources, clean and compile it
+- Based on the story I would like to share, chart a story arc which will give me a sense of the kind of effect I want each part of my work to have on my audience. 
 - Get feedback on the story arc and see if the story is cohesive and engaging.
 - Refine the story arc 
 - Begin sketching key aspects of the project and piece all the information together.
@@ -141,7 +141,7 @@ My method of story telling will be through persuasive imagery and data visualiza
 ------------------------------------------------------------------------------------------------------------------------------
 **Step III:**
 
-- Use the 2 crtitiquing methods we have learnt to identify shortfalls in the visualizations and take corrective action.
+- Use the 2 critiquing methods we have learned to identify shortfalls in the visualizations and take corrective action.
 - Gauge the effectiveness of the story.
 - Piece it all together on shorthand. 
 - Design and create a digital story on shorthand using enticing visuals and imagery to depict the problem in all fairness.
