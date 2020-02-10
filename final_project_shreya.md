@@ -119,7 +119,7 @@ I will be completing the project in 3 steps
 My method of story telling will be through persuasive imagery and data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
 
 ------------------------------------------------------------------------------------------------------------------------------
-**Step I:**  <- We are here right now!
+**Step I:**  <------- We are here right now!
 - Conduct thorough research on the topic of plastic pollution
 - Outline key points that I would like to convey to the audience
 - Collect Data from multiple sources, clean and compile it
