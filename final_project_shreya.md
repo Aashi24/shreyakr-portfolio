@@ -132,7 +132,7 @@ My method of story telling will be through persuasive imagery and data visualiza
 ------------------------------------------------------------------------------------------------------------------------------
 **Step II:**
 
-- Based on the feedback I receive on the sketches I will create wireframes for my final 
+- Based on the feedback I receive on the sketches I will create wireframes for my final story
 - Decide a color scheme and theme for the final output
 - Refine and visualize the data collected using Tableau
 - Experiment with shorthand and get familiar with the environment
@@ -145,6 +145,8 @@ My method of story telling will be through persuasive imagery and data visualiza
 - Gauge the effectiveness of the story.
 - Piece it all together on shorthand. 
 - Design and create a digital story on shorthand using enticing visuals and imagery to depict the problem in all fairness.
+- Check if the story is cohesive and engaging for a wide audience
+- *Practice what I preach, reduce my plastic usage to a bare minimum!*
 
 ------------------------------------------------------------------------------------------------------------------------------
 
