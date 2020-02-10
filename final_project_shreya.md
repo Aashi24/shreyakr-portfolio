@@ -69,27 +69,27 @@ It is time to say "Okay Boomer" and undo the damage done to our planet because o
 
 # 2. Initial Sketches
 
-1. Introduction: The Story of Plastic
+**1. Introduction: The Story of Plastic**
 
 ![Story of plastic](s1.jpg)
 
-2. Environmental Impact
+**2. Environmental Impact**
 
 ![Environment](s2.jpg)
 
-3. Plastics are slowly killing Millions of Humans
+**3. Plastics are slowly killing Millions of Humans**
 
 ![Plastics are killing humans](s3.jpg)
 
-4. Let us reflect on our consumption
+**4. Let us reflect on our consumption**
 
 ![Our consumption](s4.jpg)
 
-5. Policy reforms required, the world scenario and simple steps we can take to save the planet
+**5. Policy reforms required, the world scenario and simple steps we can take to save the planet**
 
 ![Policy Reforms and Simple steps](s5.jpg)
 
-5. Call for Action - Pledge against Plastic!
+**5. Call for Action - Pledge against Plastic!**
 
 ![Call for Action](s6.jpg)
 
@@ -97,7 +97,7 @@ It is time to say "Okay Boomer" and undo the damage done to our planet because o
 
 As mentioned previously, National Geographic's coverage of this issue inspired me to choose this topic. So, a lot of data that I will cite and visualise are from their website. In addition to that, I found other reliable sources that detail other facets of this mammoth problem. The final dataset used is a combination of all these sources. I intend on deriving my visualizations and some of my content from here.
 
-Data: 
+**Data:** 
 
 - [Google Sheets containing data](https://docs.google.com/spreadsheets/d/1AHCi-UIvZsHg_qm53ricrzInUJc23C5QepnS6lw2utg/edit?usp=sharing)
 
@@ -118,7 +118,8 @@ I will be completing the project in 3 steps
 
 My method of story telling will be through persuasive imagery and data visualizations. I will incorporate the feedback I receive from my peers at each stage in order to make my work more effective and persuasive.
 
-Step I: 
+------------------------------------------------------------------------------------------------------------------------------
+**Step I:** 
 - Conduct thorough research on the topic of plastic pollution
 - Outline key points that I would like to convey to the audience
 - Collect Data form multiple sources, clean and compile it
@@ -128,7 +129,8 @@ Step I:
 - Begin sketching key aspects of the project and piece all the information together.
 - Rearrange some parts based on relevance and feedback received on the sketches.
 
-Step II:
+------------------------------------------------------------------------------------------------------------------------------
+**Step II:**
 
 - Based on the feedback I receive on the sketches I will create wireframes for my final 
 - Decide a color scheme and theme for the final output
@@ -136,13 +138,15 @@ Step II:
 - Experiment with shorthand and get familiar with the environment
 - Come up with a first draft of the project using shorthand to get early feedback from peers
 
-Step III:
+------------------------------------------------------------------------------------------------------------------------------
+**Step III:**
 
 - Use the 2 crtitiquing methods we have learnt to identify shortfalls in the visualizations and take corrective action.
 - Gauge the effectiveness of the story.
 - Piece it all together on shorthand. 
 - Design and create a digital story on shorthand using enticing visuals and imagery to depict the problem in all fairness.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Medium
 
