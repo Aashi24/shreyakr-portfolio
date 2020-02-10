@@ -7,43 +7,34 @@
 
 ## Summary : 
 
-For the final project I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles that will contribute to the solution of this problem in a small but significant way.
+For the final project, I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as Nat Geo. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles that will contribute to the solution of this problem in a small but significant way.
 
 ## Inspiration :
 
-This work is deeply inspired by National Geographics coverage of the problem and their initiatives to curb the menace. I watched a few documentaries which are part of **THE STORY OF PLASTIC** series that changed my mind. I want my work to have the same impact on my readers.
+This work is deeply inspired by National Geographic's coverage of the problem and their initiatives to curb the menace. I watched a few documentaries which are part of **THE STORY OF PLASTIC** series that changed my mind. I want my work to have the same impact on my readers.
 
 
 ## Approach : 
 
 - The untold story of plastic and its evolution  
-
--- How did this happen? When did all this begin?
+  - How did this happen? When did all this begin?
 - Putting this in perspective (discuss the scale at which plastic is produced and dumped) 
-
--- How big is this problem now? Why can't we just recycle
+  - How big is this problem now? Why can't we just recycle
 - How Plastic Pollution is affecting the Ocean Wildlife and other living creatures
-
--- Visuals and Data Visualizations
+  - Visuals and Data Visualizations
 - Did you know...It is also taking human lives
-
--- Here's how and how many
-
-- Okay Boomer!
-
---  We can do better, this is our world, it is in our hands now!
+  - Here's how and how many
+-Okay, Boomer!
+  - We can do better, this is our world, it is in our hands now!
 - Common things that are a huge cause of plastic pollution
-
--- Tooth brushes, plastic bags, sneakers, cigarettes
-
+  - Tooth brushes, plastic bags, sneakers, cigarettes
 - The Universe is infinite why can't we trash our plastic there and rid the earth of it?
-
--- Not unless we have 33 Gazzillion Dollars lying around!
-
+  - Not unless we have 33 Gazillion Dollars lying around!
 - These are the only plausible alternatives and the change begins with us!
-
-- Call to action : Initiatives people can take or partake in
--- PLEDGE AGAINST PLASTIC, join Nat Geo's initiative and do your part in saving the planet.
+  - Policy Measures and simple steps like reduce, reuse, recylce
+- Call to action
+  - Initiatives people can take or partake in
+  - PLEDGE AGAINST PLASTIC, join Nat Geo's initiative and do your part in saving the planet.
 
 ## Story Arc : 
 
