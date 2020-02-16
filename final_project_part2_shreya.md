@@ -1,9 +1,9 @@
 # Part II: Wireframes, storyboards, moodboards and user research
 
 
-I will rely on the wireframes I created in Part - I  to garner feedback. Once I receive feedback I will incorporate the changes into my revised wireframes which I will use as basis for my final project. Further, visualizations are an integral part of my story and in part 2, I will plot all my visualizations so that I can refine them using the feedback I get.
+I will rely on the wireframes I created in Part - I  to garner feedback. Once I receive feedback I will incorporate the changes into my revised wireframes which I will then use as a basis for my final project. Further, visualizations are an integral part of my story and in part 2, I will plot all my visualizations so that I can refine them using the feedback I get.
 
-I will design my revised wireframes on powerpoint because I seek a little more clarity and specificity than what balsamiq has to offer.
+I intend to design my revised wireframes on powerpoint because I seek a little more clarity and specificity than what balsamiq has to offer.
 
 
 # (1) Wirefames / storyboard for user feedback
@@ -13,6 +13,11 @@ Here are my intial wireframes:
 **1. Introduction: The Story of Plastic**
 
 ![Story of plastic](s1.jpg)
+
+charts corresponding to this section : 
+
+![Exponential growth of plastic](exp_growth_plastic.png)
+
 
 **2. Environmental Impact**
 
@@ -28,6 +33,7 @@ charts corresponding to this section :
 
 ![fish chart](98percentfishchart.png)
 
+
 **3. Plastics are slowly killing Millions of Humans**
 
 ![Plastics are killing humans](s3.jpg)
@@ -35,6 +41,10 @@ charts corresponding to this section :
 **4. Let us reflect on our consumption**
 
 ![Our consumption](s4.jpg)
+
+charts corresponding to this section : 
+
+1. ![Plastic spans generations](plastic_gen)
 
 **5. Policy reforms required, the world scenario and simple steps we can take to save the planet**
 
