@@ -18,6 +18,16 @@ Here are my intial wireframes:
 
 ![Environment](s2.jpg)
 
+charts corresponding to this section : 
+
+1. Contents found inside the dead whale 
+
+![whale chart](whale_chart.png)
+
+2. Study conducted showed that 98% of the fish sampled had ingested microplastics
+
+![fish chart](98percentfishchart.png)
+
 **3. Plastics are slowly killing Millions of Humans**
 
 ![Plastics are killing humans](s3.jpg)
