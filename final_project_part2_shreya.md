@@ -8,8 +8,31 @@ I will design my revised wireframes on powerpoint because I seek a little more c
 
 # (1) Wirefames / storyboard for user feedback
 
+Here are my intial wireframes:
+ 
+**1. Introduction: The Story of Plastic**
 
+![Story of plastic](s1.jpg)
 
+**2. Environmental Impact**
+
+![Environment](s2.jpg)
+
+**3. Plastics are slowly killing Millions of Humans**
+
+![Plastics are killing humans](s3.jpg)
+
+**4. Let us reflect on our consumption**
+
+![Our consumption](s4.jpg)
+
+**5. Policy reforms required, the world scenario and simple steps we can take to save the planet**
+
+![Policy Reforms and Simple steps](s5.jpg)
+
+**5. Call for Action - Pledge against Plastic!**
+
+![Call for Action](s6.jpg)
 
 # (2) Creation of a user research protocol and completion of at least three interviews
 
