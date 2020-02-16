@@ -63,7 +63,7 @@ As a reader, I want **to be more cognizant of my impact on the environment** so 
 ## Call to Action : 
 
 Take National Geographic's Pledge against Plastic and make a genuine effort to reduce your plastic consumption. Small changes will go a long way! 
-As future policy makers and influencers we should all take actions in order to curb this plastic ma
+As future policy makers and influencers we should all take actions in order to curb this menace
 
 It is time to say "Okay Boomer" and undo the damage done to our planet because of sheer neglect.
 
@@ -155,5 +155,6 @@ My method of story telling will be through persuasive imagery and data visualiza
  In order to create my visualizations, I will rely on **Tableau and RawGraphs**. To choose an apt color palette I will be using **Colorbrewer**. Finally, to piece it all together, I will use **Shorthand**, this is also the platform I will present my work on.
 
 
-
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 <- [Return to my Portfolio page](/README.md)
