@@ -157,4 +157,5 @@ My method of story telling will be through persuasive imagery and data visualiza
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+[Go to Part 2](/final_project_part2_shreya.md) -> 
 <- [Return to my Portfolio page](/README.md)
