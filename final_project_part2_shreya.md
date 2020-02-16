@@ -44,7 +44,7 @@ charts corresponding to this section :
 
 charts corresponding to this section : 
 
-1. ![Plastic spans generations](plastic_gen)
+1. ![Plastic spans generations](plastic_gen.png)
 
 **5. Policy reforms required, the world scenario and simple steps we can take to save the planet**
 
