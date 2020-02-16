@@ -79,7 +79,27 @@ I plan to give my interviewees some time to look at my intial wireframes and sto
 
 ### Interview Script
 
+#### Introduction : 
 
+Hi I'd like your help in refining my website, I have drawn some initial wireframes and have arranged then in the order they would appear in my final project. These include some visualizations as well as text. I seek honest feedback from you in order to refine these. The final wireframes will form the basis for my website and hence need to be really effective. Please take a look at the wireframes before we can begin this interview.
+
+**1. Could you summarize this story for me in about a sentence or two?**
+
+**2. Was there any part in the story where you felt a slight disconnect from the rest?**
+
+**3. Is there some information, you thought, was lacking? If so what would you have liked to see?**
+
+**4. Are all the visualizations appealing and clear?**
+
+**5. What was the call to action and does that resonate with you?**
+
+**6. Would you pledge against plastic?**
+
+**7. What was you favourite visualization**
+
+**8. On a scale of 1 to 5 how would you rank the effectiveness of this story?**
+
+Thanks, I really appreciate you for taking the time to help me out. Your honest feedback really helps and I will incorporate the changes you've suggested into my final draft.
 
 ### Findings
 
