@@ -1,45 +1,45 @@
 # Part II: Wireframes, storyboards, moodboards and user research
 
-## (1) Wirefames / storyboard for user feedback
+# (1) Wirefames / storyboard for user feedback
 
-## (2) Creation of a user research protocol and completion of at least three interviews
+# (2) Creation of a user research protocol and completion of at least three interviews
 
-### User Research Protocol
+## User Research Protocol
 
-#### Target Audience
+### Target Audience
 
 The target audience for my story is everyone, young and old. The purpose of this project is to raise awareness and my call to action is for people to pledge against plastic. For the sake of this project, however, I would like to target my efforts on convincing millenials. This is because I firmly believe that young bloods have the willingness to change and can make a significant contribution to making the world a better place.
 
-#### Approach
+### Approach
 
 As mentioned earlier, since I am going to focu on millenials for the pupropse of this project, I will be interviewing some of my peers at Heinz to garner valuable feedback. 
 
 My goal is to assess the effectiveness of my story and visualizations using the following criteria:
 
-- User Engagement
+- **User Engagement**
   - Do the users feel drawn towards the topic and does it instill the kind of emotions I expected to see in my story arc (i.e, did they feel introspective, empathetic, informed, interested, intrigued and empowered through the course of this engagement).
 
-- Flow of the storyline
+- **Flow of the storyline**
   - Do people think the story is cohesive and flows well?
   - Is it apt in leading the audience where I wish to take them
   
-- Completeness of the story
+- **Completeness of the story**
   - Does the stroy have a well defined start and end?
   - Do people feel like something is missing?
   
-- Aesthetics of the imagery and visualization
+- **Aesthetics of the imagery and visualization**
   - Are the visualizations attractive enough to capture the audience's interest
   
-- How many of them actually felt the need to change
+- **How many of them actually felt the need to change**
   - How many will finally take the pledge against plastic
 
 I plan to give my interviewees some time to look at my intial wireframes and story board and once they have, I will ask them a set of questions to gague the efficacy of my work. I expect each interview to last about 10 minutes in total. The questions are listed below in my interview script. I do not intend on giving them a background of my work before these interviews because I want to see whether my story board is communicating the right message to the audience. I'll be taking notes throughout the interview and will make sure not to influence the interviewee's thoughts in any way.
 
-#### Interview Script
+### Interview Script
 
 
 
-#### Findings
+### Findings
 
 
 Your user research protocol should clearly identify the following: 
@@ -51,9 +51,9 @@ d. the findings from your interviews; and
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
 
-#### 
+### 
 
 
-## (3) Revised wireframes / visualizations / storyboards based on what you heard
+# (3) Revised wireframes / visualizations / storyboards based on what you heard
 
 <- [Click here to go back to Part 1](/final_project_shreya.md)
