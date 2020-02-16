@@ -3,7 +3,7 @@
 
 I will rely on the wireframes I created in Part - I  to garner feedback. Once I receive feedback I will incorporate the changes into my revised wireframes which I will use as basis for my final project. Further, visualizations are an integral part of my story and in part 2, I will plot all my visualizations so that I can refine them using the feedback I get.
 
-I will design my revised wireframes on powerpoint because I seek a little more clarity and specificity than what balsami has to offer.
+I will design my revised wireframes on powerpoint because I seek a little more clarity and specificity than what balsamiq has to offer.
 
 
 # (1) Wirefames / storyboard for user feedback
