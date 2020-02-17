@@ -115,13 +115,13 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 
 ### Responses
 
-![interview1]()
+![interview1](interview1.png)
 
 
-![interview2]()
+![interview2](interview2.png)
 
 
-![interview3]()
+![interview3](interview3.png)
 ### Findings
 
 - Nobody understood what the pldege is! :(
