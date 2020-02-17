@@ -138,7 +138,7 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 The following are key elemments that I wish to highlight in my presentation
 
 ![1](Slide1.jpeg)
-![2](Slide2.jpeg)
+![2](final project wire frames.jpg)
 ![3](Slide3.jpeg)
 ![4](Slide4.jpeg)
 ![5](Slide5.jpeg)
