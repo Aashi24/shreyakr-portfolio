@@ -5,6 +5,7 @@ I will rely on the wireframes I created in Part - I  to garner feedback. Once I 
 
 I intend to design my revised wireframes on PowerPoint because I seek a little more clarity and specificity than what Balsamiq has to offer.
 
+(#Note: This project is easier to view on a mobile device)
 
 # (1) Wirefames / storyboard for user feedback
 
