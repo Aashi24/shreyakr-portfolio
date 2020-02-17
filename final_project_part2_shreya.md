@@ -128,4 +128,20 @@ e. changes you implemented to your sketches, storyboards and wireframes to addre
 
 # (3) Revised wireframes / visualizations / storyboards based on what you heard
 
+![1](Slide1.jpeg)
+![2](Slide2.jpeg)
+![3](Slide3.jpeg)
+![4](Slide4.jpeg)
+![5](Slide5.jpeg)
+![6](Slide6.jpeg)
+![7](Slide7.jpeg)
+![8](Slide8.jpeg)
+![9](Slide9.jpeg)
+![10](Slide10.jpeg)
+![11](Slide11.jpeg)
+![12](Slide12.jpeg)
+![13](Slide13.jpeg)
+![14](Slide14.jpeg)
+
+
 <- [Click here to go back to Part 1](/final_project_shreya.md)
