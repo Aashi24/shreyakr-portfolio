@@ -135,6 +135,7 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 - Nobody understood what the pledge is! :(
 - The visualizations seem to be working and were widely appreciated. The first visualization on the exponential rise in plastic production can be made better - title and select values should be mentioned
 - Story line needs refinement - people did not think the policy part was relevant, however, they sought more information on what they can do to help
+- Need to brainstorm more on the solutions that I can provide to the audience
 - The call to action is also not very clear and needs to be elaborated
 
 ..............................................................................................................................
