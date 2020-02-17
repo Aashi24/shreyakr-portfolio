@@ -17,6 +17,8 @@ Here are my intial wireframes:
 charts corresponding to this section : 
 
 ![Exponential growth of plastic](exp_growth_plastic.png)
+Source: https://www.statista.com/statistics/282732/global-production-of-plastics-since-1950/
+ 
 
 
 **2. Environmental Impact**
