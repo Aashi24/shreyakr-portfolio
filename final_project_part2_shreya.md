@@ -63,7 +63,7 @@ charts corresponding to this section :
 
 ![Call for Action](s6.jpg)
 
-..............................................................................................................................
+------------------------------------------------------------------------------------------------------------------------------
 
 # (2) Creation of a user research protocol and completion of at least three interviews
 
@@ -139,8 +139,7 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 - Need to brainstorm more on the solutions that I can provide to the audience
 - The call to action is also not very clear and needs to be elaborated
 
-..............................................................................................................................
-
+------------------------------------------------------------------------------------------------------------------------------
 
 # (3) Revised wireframes / visualizations / storyboards based on what you heard
 
@@ -194,5 +193,7 @@ The following are key elements that I wish to highlight in my presentation
 
 ![14](Slide14.jpeg)
 
+
+------------------------------------------------------------------------------------------------------------------------------
 
 <- [Click here to go back to Part 1](/final_project_shreya.md)
