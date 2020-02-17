@@ -162,7 +162,12 @@ The following are key elemments that I wish to highlight in my presentation
 - **Lifetime of plastic items**
 ![9](Slide9.jpeg)
 
+- **Got rid of the policy changes **
+
+- **Intend on doing more research on what people can do to reduce plastic pollution in addition to taking National Geographic's pledge. I will include this in my final draft.**
+
 - **Added more information about the pledge based on user feedback since this was the most common feedback received**
+
 ![10](Slide11.jpeg)
 
 ![12](Slide12.jpeg)
