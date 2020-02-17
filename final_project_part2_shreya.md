@@ -115,13 +115,13 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 
 ### Responses
 
-![]()
+![interview1]()
 
 
-![]()
+![interview2]()
 
 
-![]()
+![interview3]()
 ### Findings
 
 - Nobody understood what the pldege is! :(
@@ -134,6 +134,8 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 
 
 # (3) Revised wireframes / visualizations / storyboards based on what you heard
+
+The following are key elemments that I wish to highlight in my presentation
 
 ![1](Slide1.jpeg)
 ![2](Slide2.jpeg)
