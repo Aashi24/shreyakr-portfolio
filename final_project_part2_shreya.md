@@ -31,6 +31,12 @@ charts corresponding to this section :
 
 ![whale chart](whale_chart.png)
 
+![turtle](turtle.png)
+
+![seabird](seabird.png)
+
+![mammal](mammal.png)
+
 2. Study conducted showed that 98% of the fish sampled had ingested microplastics
 
 ![fish chart](98percentfishchart.png)
@@ -55,6 +61,8 @@ charts corresponding to this section :
 **5. Call for Action - Pledge against Plastic!**
 
 ![Call for Action](s6.jpg)
+
+..............................................................................................................................
 
 # (2) Creation of a user research protocol and completion of at least three interviews
 
@@ -129,8 +137,7 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 - Story line needs refinement - people did not think the policy part was relevant, however, they sought more information on what they can do to help
 - The call to action is also not very clear and needs to be elaborated
 
-
-### 
+..............................................................................................................................
 
 
 # (3) Revised wireframes / visualizations / storyboards based on what you heard
