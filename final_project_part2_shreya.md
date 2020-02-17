@@ -111,16 +111,18 @@ Hi I'd like your help in refining my website, I have drawn some initial wirefram
 
 Thanks, I really appreciate you for taking the time to help me out. Your honest feedback really helps and I will incorporate the changes you've suggested into my final draft.
 
+### Responses
+
+![]()
+
+
+![]()
+
+
+![]()
 ### Findings
 
 
-Your user research protocol should clearly identify the following: 
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
 
 ### 
