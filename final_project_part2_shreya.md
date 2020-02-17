@@ -137,19 +137,39 @@ Thanks, I really appreciate you for taking the time to help me out. Your honest 
 
 The following are key elemments that I wish to highlight in my presentation
 
+- **Title slide/page**
 ![1](Slide1.jpeg)
+
+- **Increased the font size of the title and made it more clear**
 ![2](Slide2.jpeg)
+
+- **This graph depicts the yearly plastic packaging contributions of some big companies, the bar colors correspond to the brand color**
 ![3](Slide3.jpeg)
+
+- **Talks about how the plastic reaches the ocean and set the stage for the effect on marin life**
 ![4](Slide4.jpeg)
+
+- **Imapct on marine wildlife**
 ![5](Slide5.jpeg)
+
 ![6](Slide6.jpeg)
+
 ![7](Slide7.jpeg)
+
+- **Amount of plastic found in a dead whale is saddening**
 ![8](Slide8.jpeg)
+
+- **Lifetime of plastic items**
 ![9](Slide9.jpeg)
+
+- **Added more information about the pledge based on user feedback since this was the most common feedback received**
 ![10](Slide11.jpeg)
 
 ![12](Slide12.jpeg)
+
 ![13](Slide13.jpeg)
+
+- **Call to action**
 ![14](Slide14.jpeg)
 
 
