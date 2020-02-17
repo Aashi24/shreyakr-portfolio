@@ -147,7 +147,7 @@ The following are key elemments that I wish to highlight in my presentation
 ![8](Slide8.jpeg)
 ![9](Slide9.jpeg)
 ![10](Slide10.jpeg)
-![11](Slide11.jpeg)
+
 ![12](Slide12.jpeg)
 ![13](Slide13.jpeg)
 ![14](Slide14.jpeg)
