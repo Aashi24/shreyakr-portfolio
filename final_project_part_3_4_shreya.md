@@ -37,6 +37,12 @@ A few paragraphs that summarize the work you've done so far.  Talk about the des
 
 This has been quite an edifying experience for me and I have learnt so many things about data visualization and the environment all through this project. Story telling is indeed an art and the ability to tell stories with data, an important skill.
 
+Initially, I had a lot more content which seemed irrelevant to the people I interviewd. The audience interview, helped me refine my content and story line as well as my visualizations.
+
+The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
+
+
+
 I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
 
 **Here are the ones I created on PowerPoint:**
@@ -63,9 +69,9 @@ In this infographic, I've basically tried to depict the sheer number of plastics
 
 [Image Sources](https://docs.google.com/spreadsheets/d/1XvUMh-gJKoEXJXd64z43LbWM1I6PPfVx9TdyhwOnaXs/edit?usp=sharing)
 
-## Final Project Page
+# Link to the final project
 
-### [Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html)
+## [Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html)
 
 ## Thank you for joining me on this journey.
 
