@@ -18,7 +18,7 @@ Since the pie chart was representing percentage of fish, I took the liberty to m
 
 2. Time line:
 
-[PLACE HOLDER]
+![Animal Pie Charts](pie_charts_animals.png)
 
 This timeline chart depicts the number of years it takes for common single-use plastics to degrade. To put the scale of years in perspective and to link it to our life-span, I decided to compare it with the number of human generations that would correspond to the number of years.
 
