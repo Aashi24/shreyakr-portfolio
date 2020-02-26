@@ -41,7 +41,13 @@ Initially, I had a lot more content which seemed irrelevant to the people I inte
 
 The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
 
+BLATANT ERROR THAT I MISSED:
 
+![seabird](seabird.png)
+
+THE CORRECTED VERSION:
+
+![bird](bird.png)
 
 I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
 
