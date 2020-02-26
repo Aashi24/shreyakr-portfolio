@@ -41,15 +41,21 @@ Initially, I had a lot more content which seemed irrelevant to the people I inte
 
 The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
 
-BLATANT ERROR THAT I MISSED:
+**BLATANT ERROR THAT I MISSED:**
 
 ![seabird](seabird.png)
 
-THE CORRECTED VERSION:
+In no way was this pie chart depicting 56 & 44%!
+
+**THE CORRECTED VERSION:**
 
 ![bird](bird.png)
 
-I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
+The in-class critiques were particularly useful because of the quality of feedback I received. My classmates had great suggestions that I incorporated into my final deliverable. If there is just one thing that I could take back from this course, it would be the importance of seeking feedback on our initial drafts.
+
+In the past, I would directly dive into creating PowerPoints and content without thinking it through. Storyboarding and wire framing allowed me to identify
+
+Further, I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
 
 **Here are the ones I created on PowerPoint:**
 
