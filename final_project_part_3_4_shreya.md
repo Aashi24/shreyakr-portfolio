@@ -65,7 +65,7 @@ The actual image can be found [here](https://bowseat.org/gallery/plastic-whale/)
 
 ### [Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html)
 
-# Thank you for joining me on my journey.
+## Thank you for joining me on this journey.
 
 ![That's a wrap](/itsawrap.jpeg)
 
