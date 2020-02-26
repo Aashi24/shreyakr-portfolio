@@ -34,4 +34,3 @@ Here goes...this is where you can view all of my cool visualizations!
 
 5. [Part 3 - The final deliverable](final_project_part_3_4_shreya.md)
 
-Stay tuned for more...
