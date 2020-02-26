@@ -32,4 +32,6 @@ Here goes...this is where you can view all of my cool visualizations!
 
 4. [Part 2 - Wireframes, storyboards, moodboards and user research](/final_project_part2_shreya.md)
 
+5. [part 3 - The final deliverable](final_project_part_3_4_shreya.md)
+
 Stay tuned for more...
