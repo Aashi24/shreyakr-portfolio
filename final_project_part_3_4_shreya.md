@@ -1,6 +1,6 @@
 # Part III: The final deliverable
 
-![That's a wrap](/itsawrap.jpeg =250x250)
+![That's a wrap](/itsawrap.jpeg | width=100)
 
 <- [Click here to go back to Part 2](/final_project_part2_shreya.md)
 
