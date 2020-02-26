@@ -8,7 +8,7 @@ As mentioned in [part 1](/final_project_part2_shreya.md), the intended audience 
 
 In order to extend the reach of my work, I've kept the visualizations simple and easy to interpret. In addition to this, I have used common chart types that people are familiar with such as, pie-charts, line graphs and lastly, a time-line chart. My aim is to get my message across in the simplest way possible. In my opinion, a chart is most effective when the message it conveys is un-convoluted.
 
-Specific examples of steps I took to make my visualizations easy are as follows:
+Specific examples of steps I took to make my visualizations easy to understand are as follows:
 
 1. The fish chart:
 
@@ -16,17 +16,20 @@ Specific examples of steps I took to make my visualizations easy are as follows:
 
 Since the pie chart was representing percentage of fish, I took the liberty to make the pie chart look like a fish. Some one looking at the chart will instantly know that it represents data from a study on fish.
 
-2. Time line:
+2. The Time line graph:
 
-![Animal Pie Charts](pie_charts_animals.png)
+![generations](line_graph.png)
 
 This timeline chart depicts the number of years it takes for common single-use plastics to degrade. To put the scale of years in perspective and to link it to our life-span, I decided to compare it with the number of human generations that would correspond to the number of years.
 
 
-3. Pie-charts with images:
+3. The Pie-charts with images:
 
-I've plotted 3 pie charts 
+![Animal Pie Charts](pie_charts_animals.png)
 
+I've plotted 3 pie charts that represent statistics on 3 different categories/species of marine life. Since these are reflecting a negative sentiment, the color scheme I've chosen for this is red and grey.
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ![That's a wrap](/itsawrap.jpeg)
 
