@@ -33,6 +33,8 @@ I've plotted 3 pie charts that represent statistics on 3 different categories/sp
 
 ## Summary of the work done, so far
 
+
+
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
 This has been quite an edifying experience for me and I have learnt so many things about data visualization and the environment all through this project. Story telling is indeed an art and the ability to tell stories with data, an important skill.
