@@ -1,6 +1,6 @@
 # Part III: The final deliverable
 
-![That's a wrap](/itsawrap.jpeg width="250" height="250")
+![That's a wrap](/itsawrap.jpeg){:height="24px" width="48px"}
 
 <- [Click here to go back to Part 2](/final_project_part2_shreya.md)
 
