@@ -4,6 +4,8 @@
 
 As mentioned in [part 1](/final_project_shreya.md), the intended audience for my story is **people from all walks of life who are willing to make small changes to their lifestyles in order to contribute towards crafting a better future.** Since I have had the privilege of sharing this class at Heinz with future policy makers and influencers. Therefore, I would like to take this opportunity to shed light on the rampant problem of plastic pollution so that we can collectlively work towards finding a fix to this issue that is claiming innocent lives, globally. **In order to alleviate this problem, we are going to require policy reforms but before all that, we have to take small steps and make immediate lifestyle changes as citizens of this planet to do our bit. This begins by understanding the problem and the fact that our contribution is an integral part of the solution.**
 
+The final deliverable is a result of numerous iterations based on peer feedback. Since these final visualizations have gone through three rounds of refinement, they seem to chime well with the audience now. I realised through this process that what we perceive is not what others perceive something as.
+
 In order to extend the reach of my work, I've kept the visualizations simple and easy to interpret. In addition to this, I have used common chart types that people are familiar with such as, pie-charts, line graphs and lastly, a time-line chart. My aim is to get my message across in the simplest way possible. In my opinion, a chart is most effective when the message it conveys is un-convoluted.
 
 #### Specific examples of steps I took to make my visualizations easy to understand are as follows:
