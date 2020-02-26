@@ -52,11 +52,13 @@ The reason behind using PowerPoint is that I am very familiar with the tool and 
 The relative ease with which data can be visualised using tableau prompted me to use the tool.
 
 **Personal Favourite:**
+
 Out of all these visualizations, my personal favourite is the one with the whale. The background image I used for this is a powerful painting made by Daffne Murrilo, a high schooler back in 2014, from Lima, Peru.
 
 The actual image can be found [here](https://bowseat.org/gallery/plastic-whale/).
 
-.......(WHY DO YOU LIKE IT)
+In this infographic, I've basically tried to depict the sheer number of plastics that were found inside the stomach of a whale that washed up on the shores of Washnigton.
+
 ### The images I've used and their sources are documented in this excel sheet
 
 [Image Sources](https://docs.google.com/spreadsheets/d/1XvUMh-gJKoEXJXd64z43LbWM1I6PPfVx9TdyhwOnaXs/edit?usp=sharing)
