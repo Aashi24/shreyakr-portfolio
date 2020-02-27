@@ -87,6 +87,7 @@ In this infographic, I've basically tried to depict the sheer number of plastics
 
 ## [Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html)
 
+
 # References :
 
 **1. Nation Geographic** 
@@ -140,6 +141,17 @@ https://ourworldindata.org/plastic-pollution
 
 https://www.onegreenplanet.org/environment/breakthroughs-in-the-fight-against-plastic-pollution/
 
+**Data Sources :** 
+
+- [Google Sheets containing data](https://docs.google.com/spreadsheets/d/1AHCi-UIvZsHg_qm53ricrzInUJc23C5QepnS6lw2utg/edit?usp=sharing)
+
+This google sheets link has data collected from multiple sources. Data from different sources are organised in different sheets and each of these sheets has a link to the data source.
+
+It has 7 sheets in total, the first sheet is a list of all the data sources and their corresponding links. The remaining six contain the actual data. Another sheet appended at the end of this file contains names and sources of some images that I plan to use.
+
+**Image Sources: **
+
+Google Images labeled for reuse with modification.
 
 ## Thank you for joining me on this journey.
 
