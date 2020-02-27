@@ -33,13 +33,9 @@ I've plotted 3 pie charts that represent statistics on 3 different categories/sp
 
 ## Summary of the work done, so far
 
-
-
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-
 This has been quite an edifying experience for me and I have learnt so many things about data visualization and the environment all through this project. Story telling is indeed an art and the ability to tell stories with data, an important skill.
 
-Initially, I had a lot more content which seemed irrelevant to the to to a lot of people that I interviewd. The audience interviews, helped me refine my content and story line as well as my visualizations.
+Initially, I had a lot more content which seemed irrelevant to the to to a lot of people that I interviewed. The audience interviews, helped me refine my content and story line as well as my visualizations.
 
 The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
 
@@ -63,7 +59,7 @@ Further, I used Microsoft PowerPoint to create all my custom images, infographic
 
 ![PowerPoint](infographics.png)
 
-The reason behind using PowerPoint is that I am very familiar with the tool and I wanted to exercise my creativity. All of these infographics are backed by data from dependable sources that have been cited. Further, all of the image used in my infographics are from google images and are _labeled for reuse with modifications_.
+The reason behind using PowerPoint is that I am very familiar with the tool and I wanted to exercise my creativity. All of these infographics are backed by data from dependable sources that have been cited. Further, all of the images used in my infographics are from google images and are _labeled for reuse with modifications_.
 
 **And here is the chart I created using Tableau:**
 
