@@ -39,7 +39,7 @@ A few paragraphs that summarize the work you've done so far.  Talk about the des
 
 This has been quite an edifying experience for me and I have learnt so many things about data visualization and the environment all through this project. Story telling is indeed an art and the ability to tell stories with data, an important skill.
 
-Initially, I had a lot more content which seemed irrelevant to the people I interviewd. The audience interview, helped me refine my content and story line as well as my visualizations.
+Initially, I had a lot more content which seemed irrelevant to the to to a lot of people that I interviewd. The audience interviews, helped me refine my content and story line as well as my visualizations.
 
 The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
 
@@ -55,7 +55,7 @@ In no way was this pie chart depicting 56 & 44%!
 
 The in-class critiques were particularly useful because of the quality of feedback I received. My classmates had great suggestions that I incorporated into my final deliverable. If there is just one thing that I could take back from this course, it would be the importance of seeking feedback on our initial drafts.
 
-In the past, I would directly dive into creating PowerPoints and content without thinking it through. Storyboarding and wire framing allowed me to identify the parts of my story that were useful to support the main plot versus those that are distracting users from the main point. 
+In the past, I would directly dive into creating PowerPoints and content without thinking it through. Storyboarding and wire framing allowed me to identify the parts of my story that were useful to support the main plot versus those that are distracting users from the main point. The user research protocol, helped me focus my questions and derive the most out of my interviews.
 
 Further, I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
 
@@ -86,6 +86,60 @@ In this infographic, I've basically tried to depict the sheer number of plastics
 # Link to the final project
 
 ## [Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html)
+
+# References :
+
+**1. Nation Geographic** 
+
+https://www.nationalgeographic.com/environment/plasticpledge/
+
+**2. David Attenborough**
+
+https://www.telegraph.co.uk/global-health/climate-and-people/plastics-killing-million-people-year-warns-sir-david-attenborough/
+
+**3. Clean water** 
+
+https://www.cleanwater.org/problem-marine-plastic-pollution
+
+**4. Clean tech**
+
+https://www.azocleantech.com/article.aspx?ArticleID=729
+
+**5. World Economic Forum** 
+
+https://www.weforum.org/agenda/2018/08/the-world-of-plastics-in-numbers
+
+**6. National Geographic**
+
+https://www.nationalgeographic.com/environment/habitats/plastic-pollution/
+
+**7. Statista** 
+https://www.statista.com/statistics/270454/top-10-materials-in-a-smartphone/
+
+**8. Data world** 
+
+https://data.world/kgarrett/new-plastics-economy-global-commitment
+
+**9. Dumping Garbage in Space** 
+
+https://www.popularmechanics.com/space/a19666/we-cant-just-throw-our-garbage-into-the-sun/
+
+**10. The Guardian**
+
+https://www.theguardian.com/environment/2017/jun/28/a-million-a-minute-worlds-plastic-bottle-binge-as-dangerous-as-climate-change
+
+**11. Tearfund Org**
+
+https://learn.tearfund.org/resources/policy_and_research/sustainable_economics/circular_economy/#a5
+
+**12. Oxford data link**
+
+https://ourworldindata.org/plastic-pollution
+
+**13. One Green Planet**
+
+https://www.onegreenplanet.org/environment/breakthroughs-in-the-fight-against-plastic-pollution/
+
 
 ## Thank you for joining me on this journey.
 
