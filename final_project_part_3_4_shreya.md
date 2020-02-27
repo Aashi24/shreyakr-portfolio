@@ -2,7 +2,7 @@
 
 ## Intended audience
 
-As mentioned in [part 1](/final_project_shreya.md), the intended audience for my story is **people from all walks of life who are willing to make small changes to their lifestyles in order to contribute towards crafting a better future.** Since I have had the privilege of sharing this class at Heinz with future policy makers and influencers. Therefore, I would like to take this opportunity to shed light on the rampant problem of plastic pollution so that we can collectlively work towards finding a fix to this issue that is claiming innocent lives, globally. **In order to alleviate this problem, we are going to require policy reforms but before all that, we have to take small steps and make immediate lifestyle changes as citizens of this planet to do our bit. This begins by understanding the problem and the fact that our contribution is an integral part of the solution.**
+As mentioned in [part 1](/final_project_shreya.md), the intended audience for my story is **people from all walks of life who are willing to make small changes to their lifestyles in order to contribute towards crafting a better future.** Since I have had the privilege of sharing this class at Heinz with future policy makers and influencers. Therefore, I would like to take this opportunity to shed light on the rampant problem of plastic pollution so that we can collectively work towards finding a fix to this issue that is claiming innocent lives, globally. **In order to alleviate this problem, we are going to require policy reforms but before all that, we have to take small steps and make immediate lifestyle changes as citizens of this planet to do our bit. This begins by understanding the problem and the fact that our contribution is an integral part of the solution.**
 
 The final deliverable is a result of numerous iterations based on peer feedback. Since these final visualizations have gone through three rounds of refinement, they seem to chime well with the audience now. I realised through this process that what we perceive is not what others perceive something as.
 
@@ -14,7 +14,7 @@ In order to extend the reach of my work, I've kept the visualizations simple and
 
 ![fish chart](98percentfishchart.png)
 
-Since the pie chart was representing percentage of fish, I took the liberty to make the pie chart look like a fish. Some one looking at the chart will instantly know that it represents data from a study on fish.
+Since the pie chart was representing percentage of fish, I took the liberty to make the pie chart look like a fish. Someone looking at the chart will instantly know that it represents data from a study on fish.
 
 **2. The Time line graph:**
 
@@ -55,7 +55,7 @@ In no way was this pie chart depicting 56 & 44%!
 
 The in-class critiques were particularly useful because of the quality of feedback I received. My classmates had great suggestions that I incorporated into my final deliverable. If there is just one thing that I could take back from this course, it would be the importance of seeking feedback on our initial drafts.
 
-In the past, I would directly dive into creating PowerPoints and content without thinking it through. Storyboarding and wire framing allowed me to identify
+In the past, I would directly dive into creating PowerPoints and content without thinking it through. Storyboarding and wire framing allowed me to identify the parts of my story that were useful to support the main plot versus those that are distracting users from the main point. 
 
 Further, I used Microsoft PowerPoint to create all my custom images, infographics and charts except for one which I created using Tableau. 
 
@@ -77,7 +77,7 @@ Out of all these visualizations, my personal favourite is the one with the whale
 
 The actual image can be found [here](https://bowseat.org/gallery/plastic-whale/).
 
-In this infographic, I've basically tried to depict the sheer number of plastics that were found inside the stomach of a whale that washed up on the shores of Washnigton.
+In this infographic, I've basically tried to depict the sheer number of plastics that were found inside the stomach of a whale that washed up on the shores of Washington.
 
 ### The images I've used and their sources are documented in this excel sheet
 
