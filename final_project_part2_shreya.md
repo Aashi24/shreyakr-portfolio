@@ -87,7 +87,7 @@ My goal is to assess the effectiveness of my story and visualizations using the 
   - Is it apt in leading the audience where I wish to take them
   
 - **Completeness of the story**
-  - Does the stroy have a well defined start and end?
+  - Does the story have a well-defined start and end?
   - Do people feel like something is missing?
   
 - **Aesthetics of the imagery and visualization**
