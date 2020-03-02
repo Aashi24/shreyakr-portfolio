@@ -34,3 +34,5 @@ Here goes...this is where you can view all of my cool visualizations!
 
 5. [Part 3 - The final deliverable](final_project_part_3_4_shreya.md)
 
+6. [Final Project - Planet or Plastic?](https://carnegiemellon.shorthandstories.com/planet-or-plastic-/index.html#group-pledge-Ol185YKRWJ)
+
