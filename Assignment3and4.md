@@ -8,7 +8,7 @@ Data: [Google Sheet containing data](https://docs.google.com/spreadsheets/d/1pyz
 @Source: [Pew Research](https://www.pewforum.org/2015/04/02/religious-projections-2010-2050/)
 
 **Background:**
-I chose this data visualization from The Economist because of its simplicity. The article talks about how the locus of Christianity is moving downward in many parts of the world while Sub-Saharan Africa represents the faith's greatest hope. The focus of the article, however, is how the Christian-Muslim conflict sputtering across west Africa is hindering with the Pope's plans to visit the continent. The article cites findings of Pew, an American research institute, which indicate that the share of the world’s Christians who live in sub-Saharan Africa will surge to 42% by 2060, up from 26% in 2015. This is precisely what the visualization I have chosen for this exercise represents. It highlights how hristianity would be destined to fall rather swiftly behind Islam as the world’s most popular faith if not for it's adoption in Sub-Saharan Africa.
+I chose this data visualization from The Economist because of its simplicity. The article talks about how the locus of Christianity is moving downward in many parts of the world while Sub-Saharan Africa represents the faith's greatest hope. The focus of the article, however, is how the Christian-Muslim conflict sputtering across west Africa is hindering with the Pope's plans to visit the continent. The article cites findings of Pew, an American research institute, which indicates that the share of the world’s Christians who live in sub-Saharan Africa will surge to 42% by 2060, up from 26% in 2015. This is precisely what the visualization I have chosen for this exercise represents. It highlights how Christianity would be destined to fall rather swiftly behind Islam as the world’s most popular faith if not for it's adoption in Sub-Saharan Africa.
 
 # 2 : CRITIQUE
 
@@ -26,7 +26,7 @@ I chose this data visualization from The Economist because of its simplicity. Th
 - **Scattered region labels** make it hard to interpret the chart at first glance.
 - **Slope charts** typically work when there are fewer variables, there are too many variables here.
 - **Overuse of color** is distracting readers from the main focus of the chart, i.e. the increase in the christian population in Sub-Saharan Africa. The other slopes are competing for attention.
-- **The Y-Axis ticks** on right causes more eye travel across the chart while interpreting each slope.
+- **The Y-Axis ticks** on the right causes more eye travel across the chart while interpreting each slope.
 - **Actual percentage values** of the points are not printed so it is subject to inaccurate interpretation
 
 **What I would change:** <br /> 
@@ -37,9 +37,9 @@ I chose this data visualization from The Economist because of its simplicity. Th
 
 ## 2. Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
 
-Visualizations are made for consumption by readers. It is therefore, really important to understand the need of the Audience and this begins with identifying who the audience is.  According to me, the primary audience for this visualization are the **readers of The Economist**.
+Visualizations are made for consumption by readers. It is therefore, really important to understand the need of the Audience and this begins with identifying who the audience is.  According to me, the primary audience for this visualization is the **readers of The Economist**.
 
-According to me I would rate the effictiveness of this visualization as follows:
+According to me I would rate the effectiveness of this visualization as follows:
 
 ![rating-1](c1.jpg)
 ### Reference
@@ -147,7 +147,7 @@ My take away from this exercise is that seeking feedback is absolutely crucial t
 - **Truthfulness:** Truthfulness is marginally improved.
 - **Intuitiveness:** Bar charts are familiar visualizations and are more intuitive.
 - **Aesthetics:** The new one is less cluttered and pleasing to look at.
-- **Engaement:** The level of engagement remains the same.
+- **Engagement:** The level of engagement remains the same.
 
 The main areas I sought to improve were, completeness, Perceptibility and intuitiveness. Overall, this is a good attempt at making the chosen visualization more effective. 
 
