@@ -198,4 +198,4 @@ The following are key elements that I wish to highlight in my presentation
 
 <- [Click here to go back to Part 1](/final_project_shreya.md)
 
-[Click here to go back to Part 3](final_project_part_3_4_shreya.md) ->
+[Click here to go to Part 3](final_project_part_3_4_shreya.md) ->
