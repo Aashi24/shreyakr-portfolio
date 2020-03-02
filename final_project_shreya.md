@@ -7,7 +7,7 @@
 
 ## Summary : 
 
-For the final project, I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as National Geographic, World Economic Forum, The telegraph and Oxford University's data source - Our world in Data. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles. This will contribute to the solution of this problem in a small but significant way and help curb this menace. Millions of sea creatures are falling prey to this and the numbers are on a horrific rise. The problem is more serious that it appears on the surface and I seek to take the audience right into the heart of the crisis so that they can choose for themselves, whether, Planet or Plastic!
+For the final project, I have chosen to focus on the problem of plastic pollution which prevails across our planet. I wish to convey the gravity of the problem to my audience by visualising and presenting data collected from reliable sources such as National Geographic, World Economic Forum, The telegraph and Oxford University's data source - Our world in Data. Not only do I want to make people aware of the problem but also urge them to make small changes to their lifestyles. This will contribute to the solution of this problem in a small but significant way and help curb this menace. Millions of sea creatures are falling prey to this and the numbers are on a horrific rise. The problem is more serious than it appears on the surface and I seek to take the audience right into the heart of the crisis so that they can choose for themselves, whether, Planet or Plastic!
 
 ## Inspiration :
 
@@ -31,7 +31,7 @@ This work is deeply inspired by National Geographic's coverage of the problem an
 - The Universe is infinite why can't we trash our plastic there and rid the earth of it?
   - Not unless we have 33 Gazillion Dollars lying around!
 - These are the only plausible alternatives and the change begins with us!
-  - Policy Measures and simple steps like reduce, reuse, recylce
+  - Policy Measures and simple steps like reduce, reuse, recycle
 - Call to action
   - Initiatives people can take or partake in
   - PLEDGE AGAINST PLASTIC, join Nat Geo's initiative and do your part in saving the planet.
@@ -42,7 +42,7 @@ This work is deeply inspired by National Geographic's coverage of the problem an
 
 ## Feedback on Story Arc : 
 
-- I really like the scale you've deviced for this story arc (well designed Y-axis) .
+- I really like the scale you've devised for this story arc (well designed Y-axis) .
 - Where do you think you want your Audience to focus? If there is just one take back for them, what would it be?
 
 ### Slightly modified Story Arc : 
