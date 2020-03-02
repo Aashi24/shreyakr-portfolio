@@ -18,7 +18,7 @@
 
 # 2.2 - My version using Boxplots with whiskers
 
-The previous beeswarm chart shows how the Debt to GDP ratio has varied for each country from 1995 to 2018. However, it does not show the actual values and it is hard to infer a general trend or averge value for each country. In order to deal with the shortfalls of the beeswarm plot and to get a more holistic picture, I decided to uses box plots. 
+The previous beeswarm chart shows how the Debt to GDP ratio has varied for each country from 1995 to 2018. However, it does not show the actual values and it is hard to infer a general trend or average value for each country. In order to deal with the shortfalls of the beeswarm plot and to get a more holistic picture, I decided to uses box plots. 
 
 The boxplot with whiskers shown below, gives us the mean Debt to GDP ratio over the last 20 odd years. It is easy to infer the countries that have been borrowing too much as compared to their overall GDP. This chart makes it  easier to quantitatively assess the borrowing behaviour of these countries. The ones showing positive borrowing patterns are shown in green while the others that show negative trends are shown in red.
 
