@@ -9,14 +9,14 @@ The imperfections in my work will give me an opportunity to learn. I would reall
 
 # About me
 
-I am a grauduate student at Carnegie Mellon University, pursing a Masters in Information Systems Management. I love travelling and learning new things. I am ever inquisitive and have a constant yearning to learn new things that will set me apart from the rest. I fear not from taking risks and this makes life more interesting!  
+I am a graduate student at Carnegie Mellon University, pursuing a Masters in Information Systems Management. I love traveling and learning new things. I am ever inquisitive and have a constant yearning to learn new things that will set me apart from the rest. I fear not from taking risks and this makes life more interesting!  
 
 # What I hope to learn
 
 ”A man who carries a cat by the tail learns something he can learn in no other way.”
                                                                                   - Mark Twain
                                                                                   
-I truly believe that the best way to learn something is to do it! As I build my portfolio peice by peice, I hope to learn the intricasies of Data-Viz which will make me a much better visual communicator. Sometimes the smallest details make a huge difference and I want to learn to focus on some of these in order to make more meaningful and impactful visualisations.
+I truly believe that the best way to learn something is to do it! As I build my portfolio piece by piece, I hope to learn the intricacies of Data-Viz which will make me a much better visual communicator. Sometimes the smallest details make a huge difference and I want to learn to focus on some of these in order to make more meaningful and impactful visualisations.
 
 I am particularly interested in color theory and I seek to learn how to use color to our advantage while persuading the audience. Further, I wish to learn how to keep my visualisations simple while being able to convey the whole and true story that the data reflects. In times when data is being called the new oil, this is an important skill to have.
 
