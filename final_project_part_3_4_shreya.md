@@ -35,7 +35,7 @@ I've plotted 3 pie charts that represent statistics on 3 different categories/sp
 
 This has been quite an edifying experience for me and I have learnt so many things about data visualization and the environment all through this project. Story telling is indeed an art and the ability to tell stories with data, an important skill.
 
-Initially, I had a lot more content which seemed irrelevant to the to to a lot of people that I interviewed. The audience interviews, helped me refine my content and story line as well as my visualizations.
+Initially, I had a lot more content that seemed irrelevant to the to a lot of people that I interviewed. The audience interviews, helped me refine my content and story line as well as my visualizations.
 
 The critiques I received helped me identify errors in my visualizations that I had grown blind to, for example,
 
