@@ -145,7 +145,7 @@ This google sheets link has data collected from multiple sources. Data from diff
 
 It has 7 sheets in total, the first sheet is a list of all the data sources and their corresponding links. The remaining six contain the actual data. Another sheet appended at the end of this file contains names and sources of some images that I plan to use.
 
-**Image Sources: **
+**Image Sources:**
 
 Google Images labeled for reuse with modification.
 
